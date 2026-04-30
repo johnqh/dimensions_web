@@ -1,0 +1,254 @@
+{
+  "seo": {
+    "title": "Dimensions — Record Portrait & Landscape Video Simultaneously | Free iOS Camera",
+    "description": "Dimensions is a free iOS camera app that records both portrait (9:16) and landscape (16:9) video from a single take. Post to TikTok, Instagram, and YouTube without recording twice.",
+    "keywords": [
+      "dual orientation camera",
+      "portrait landscape video",
+      "record both orientations",
+      "TikTok YouTube camera",
+      "free video app",
+      "influencer camera app",
+      "dual recording iOS",
+      "content creator camera"
+    ]
+  },
+  "tagline": "One Take. Every Dimension.",
+  "appIntro": "Stop recording twice. Dimensions is the free iOS camera that captures portrait and landscape video simultaneously — perfectly framed for TikTok, YouTube, and Instagram from a single take.",
+  "downloadCta": "Download Free on the App Store",
+  "learnMore": "Learn More",
+
+  "problem": {
+    "title": "The Multi-Platform Dilemma",
+    "recordTwice": {
+      "title": "Record Everything Twice",
+      "description": "You nail the perfect take for YouTube, then set up again for TikTok. Different framing, different energy — and double the work for every single video."
+    },
+    "cropAndHope": {
+      "title": "Crop and Hope",
+      "description": "Or you record once and crop in post. Half your frame disappears, text gets cut off, and your carefully composed shot falls apart."
+    },
+    "wasteHours": {
+      "title": "Waste Hours Every Week",
+      "description": "Multiply this across every video you publish. Hours lost to duplicate shoots, re-edits, and reformatting — just to stay multi-platform."
+    },
+    "resolution": "Dimensions fixes this."
+  },
+
+  "howItWorks": {
+    "title": "How It Works",
+    "frameShot": {
+      "title": "Frame Your Shot",
+      "description": "The cross-shaped viewfinder shows your portrait and landscape crops live. Compose both frames before you hit record."
+    },
+    "recordOnce": {
+      "title": "Record Once",
+      "description": "Slide to record. Face following keeps you centered, auto-leveling keeps the horizon straight. Just focus on your content."
+    },
+    "getBothVideos": {
+      "title": "Get Both Videos",
+      "description": "Both portrait and landscape versions export to your Photos automatically. Upload to any platform instantly."
+    }
+  },
+
+  "features": {
+    "title": "Why Influencers Choose Dimensions",
+    "dualRecording": {
+      "title": "Dual Orientation Recording",
+      "subtitle": "Shoot once, post everywhere",
+      "description": "Record a single video and instantly get both 9:16 portrait and 16:9 landscape — ready for TikTok, YouTube, and Instagram without re-shooting or cropping.",
+      "heroTitle": "Record Once. Post Everywhere.",
+      "heroSubtitle": "One take gives you portrait and landscape — ready for every platform.",
+      "problem": "Every content creator knows the pain. You nail the perfect take for YouTube, then realize you need a vertical version for TikTok and Reels. So you set up again, re-do your lighting, try to match the energy — and it never feels the same. Or worse, you crop the landscape video into portrait and lose half the frame. Multiply this across every video you publish, and you are burning hours every week just to stay multi-platform.",
+      "solution": "Dimensions eliminates the double-take problem entirely. It captures your video in a square format and simultaneously crops it into both 9:16 portrait and 16:9 landscape orientations in real time. When you stop recording, both versions are already done — perfectly framed, perfectly synced, and ready to upload. One take is all you need.",
+      "howItWorks": "Dimensions uses your iPhone's camera sensor to capture a square frame that fully contains both a 9:16 portrait crop and a 16:9 landscape crop. As you record, the app renders both orientations simultaneously using hardware-accelerated video processing. The result is two separate, high-quality video files exported to your Photos library the moment you finish recording.",
+      "benefits": [
+        "Save hours every week by eliminating duplicate recording sessions",
+        "Get perfectly framed portrait and landscape videos from every single take",
+        "Post to TikTok, Instagram Reels, YouTube, and Stories from one shoot",
+        "Never lose a spontaneous moment because you were recording in the wrong orientation"
+      ],
+      "useCases": {
+        "title": "Perfect For",
+        "youtube": "Export polished 16:9 landscape videos directly to YouTube. Full widescreen framing with no letterboxing or awkward crops.",
+        "tiktok": "Get scroll-stopping 9:16 vertical video for TikTok and Instagram Reels — from the same take you shot for YouTube.",
+        "instagram": "Cover every Instagram format: Reels, Stories, and feed posts. One recording session, every aspect ratio handled."
+      }
+    },
+    "livePreview": {
+      "title": "Live Preview",
+      "subtitle": "See both frames before you record",
+      "description": "The cross-shaped viewfinder overlays your portrait and landscape crops in real time. What you see is exactly what you get — no guessing, no surprises in post.",
+      "heroTitle": "Frame Both. Miss Nothing.",
+      "heroSubtitle": "The cross-shaped viewfinder shows both crops live — compose with confidence.",
+      "problem": "When you record in one orientation, you have no idea how the other crop will turn out. Will your subject get cut off in portrait? Will important details fall outside the landscape frame? You only find out in post — and by then, the moment is gone. Guessing and hoping is not a workflow.",
+      "solution": "Dimensions shows you exactly what both your portrait and landscape videos will look like while you are still filming. The unique cross-shaped preview displays both crops overlaid in real time, so you can adjust your framing, position your subject, and compose the shot with complete confidence before you press record.",
+      "howItWorks": "The live viewfinder renders a cross-shaped overlay that simultaneously displays the 9:16 portrait and 16:9 landscape crop regions on top of the full square capture area. As you move the camera, pinch to zoom, or reposition, both crop previews update instantly. What you see on screen is exactly what will be exported.",
+      "benefits": [
+        "Frame both orientations with total confidence before and during recording",
+        "Pinch-to-zoom to fine-tune your composition in real time",
+        "Eliminate post-production surprises from unexpected cropping",
+        "Compose once — no trial and error, no reshoots"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Auto Leveling",
+      "subtitle": "Steady horizon, no gimbal required",
+      "description": "Your iPhone's gyroscope keeps the horizon perfectly level frame by frame — while you walk, vlog, or film handheld. Professional stability without extra gear.",
+      "heroTitle": "Walk. Run. Stay Level.",
+      "heroSubtitle": "Per-frame gyroscope correction keeps every frame straight — no gimbal required.",
+      "problem": "Tilted horizons make even great content look amateur. Handheld footage almost always drifts off-level, especially when you are walking, talking, or filming on the move. Gimbals help, but they are expensive, bulky, and one more thing to charge and carry. Software stabilization in post can fix tilt but often introduces warping or crops your frame even further.",
+      "solution": "Dimensions uses your iPhone's built-in gyroscope to detect tilt and automatically correct it in real time. Your video stays perfectly level no matter how you hold your phone — walking down the street, climbing stairs, or filming from an awkward angle. It works instantly with zero setup and zero extra gear.",
+      "howItWorks": "The app continuously reads your device's gyroscope sensor to measure rotational tilt. It applies a real-time counter-rotation to the video frame, keeping the horizon locked and level throughout your entire recording. This correction happens at the hardware level before export, so both your portrait and landscape videos come out perfectly straight.",
+      "benefits": [
+        "Perfectly level video without carrying a gimbal",
+        "Works in real time — no fixing crooked footage in post",
+        "Film confidently while walking, moving, or vlogging on the go",
+        "Professional-looking results straight from your iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Face Following",
+      "subtitle": "Move freely, stay perfectly framed",
+      "description": "Three-axis face tracking follows you horizontally, vertically, and adjusts zoom — with intelligent pose-aware framing that adds natural headroom where you look.",
+      "heroTitle": "Move Freely. Stay Framed.",
+      "heroSubtitle": "Three-axis tracking with pose-aware framing keeps you centered no matter how you move.",
+      "problem": "Set your phone down to record a talking-head video and you are locked into one position. Lean to grab something, step to the side, or move closer to the camera and you drift out of frame — especially in the tighter portrait crop. You end up re-recording or spending time manually keyframing in your editor. For creators who film solo, staying in frame is a constant battle.",
+      "solution": "Dimensions tracks your face in real time across three axes — horizontal, vertical, and zoom — and smoothly adjusts the crop to keep you perfectly centered in both portrait and landscape outputs. Move freely, gesture naturally, and let the app handle your framing. It even adds extra headroom in the direction you turn, so your video looks intentionally composed rather than robotically tracked.",
+      "howItWorks": "The app uses real-time face detection to locate your face in every frame. It tracks three axes simultaneously: X (horizontal) keeps you centered as you move side to side, Y (vertical) follows you as you stand, sit, or change height, and Z (zoom) adjusts the crop tighter or wider based on your distance from the camera. All adjustments are applied smoothly to avoid jarring motion.",
+      "axes": {
+        "title": "Three Axes of Control",
+        "x": "Horizontal tracking follows you left and right, keeping your face centered as you move side to side or shift your position during a take.",
+        "y": "Vertical tracking adjusts as you stand up, sit down, or change height — your face stays anchored in the frame without manual repositioning.",
+        "z": "Zoom tracking moves the crop tighter when you step back and wider when you step forward, maintaining consistent framing at any distance."
+      },
+      "intelligent": "Dimensions goes beyond simple center-lock tracking. Its intelligent following system reads your head pose and adds compositional headroom in the direction you are looking. Turn to the left and the frame shifts to give you natural breathing room on the left side. This creates the kind of purposeful, balanced framing that usually requires a camera operator — automatically, in real time, on both orientations.",
+      "benefits": [
+        "Stay perfectly framed without a camera operator or tripod adjustments",
+        "Move freely during solo recordings — walk, gesture, lean without losing frame",
+        "Intelligent pose-aware framing adds natural headroom in the direction you look",
+        "Smooth tracking on all three axes keeps video looking professional, not robotic"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Built Different",
+    "subtitle": "Features you won't find in any other camera app.",
+    "crossViewfinder": {
+      "title": "Cross-Shaped Viewfinder",
+      "description": "A unique overlay shows both your portrait and landscape crops simultaneously — not a toggle, not a split screen. You see exactly how both videos will look in a single glance."
+    },
+    "poseAware": {
+      "title": "Pose-Aware Framing",
+      "description": "Goes beyond center-lock tracking. Dimensions reads your head direction and adds cinematic breathing room where you're looking — the kind of composed framing that usually requires a camera operator."
+    },
+    "perFrameLeveling": {
+      "title": "Per-Frame Leveling",
+      "description": "Not just stabilization — true per-frame horizon correction using your device's gyroscope. Each frame is individually straightened, so your video stays level even through quick movements."
+    },
+    "qualityFirst": {
+      "title": "Quality-First Processing",
+      "description": "Records raw, unfiltered video to preserve full dynamic range. Your chosen camera look is applied during export in a single pass — no stacked filters degrading your footage."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "And So Much More",
+    "cameraLooks": {
+      "title": "16 Camera Looks",
+      "description": "From Film Grain to Teal & Orange, Bleach Bypass to Noir — pick your cinematic style and see it live before you record."
+    },
+    "dualExport": {
+      "title": "Instant Dual Export",
+      "description": "Both portrait and landscape videos save to your Photos the moment you stop recording. No rendering queue, no waiting."
+    },
+    "exposure": {
+      "title": "Precision Exposure Dial",
+      "description": "Fine-tune brightness with a rotary exposure dial. Intuitive, precise, and always within reach."
+    },
+    "recording": {
+      "title": "Slide to Record",
+      "description": "Drag the slider to start recording, tap for instant photos — even mid-video. One control for everything."
+    },
+    "tapToFocus": {
+      "title": "Tap to Focus",
+      "description": "Tap anywhere to set focus and exposure. A visual indicator confirms the lock so you know exactly where the camera is looking."
+    },
+    "cameraFlip": {
+      "title": "Front & Back Camera",
+      "description": "Switch between front and back cameras with a smooth flip animation. Face following works on both."
+    }
+  },
+
+  "free": {
+    "title": "Completely Free",
+    "description": "Every feature. Every camera look. Every export. Free. A small watermark appears on exports, removable with a single one-time purchase — no subscriptions, no feature gates.",
+    "watermarkNote": "Tiny watermark on free exports",
+    "removeWatermark": "One-time purchase to remove"
+  },
+
+  "breadcrumb": {
+    "home": "Home"
+  },
+
+  "featurePage": {
+    "backToHome": "Back to Home",
+    "screenshotPlaceholder": "Screenshot coming soon",
+    "videoPlaceholder": "Demo video coming soon",
+    "otherFeatures": "Explore More Features",
+    "problem": "The Problem",
+    "solution": "The Solution",
+    "howItWorks": "How It Works",
+    "benefits": "Benefits"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Dual Orientation Recording - Dimensions Camera",
+      "description": "Record once, get both portrait (9:16) and landscape (16:9) videos. Perfect for posting to TikTok and YouTube from a single take.",
+      "keywords": [
+        "dual orientation recording",
+        "portrait landscape video",
+        "record both orientations",
+        "TikTok YouTube camera"
+      ]
+    },
+    "livePreview": {
+      "title": "Live Preview Both Orientations - Dimensions Camera",
+      "description": "See exactly what your portrait and landscape crops look like in real-time. Never miss the perfect frame.",
+      "keywords": [
+        "live camera preview",
+        "dual preview",
+        "portrait landscape preview",
+        "video framing"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Auto Leveling Video Stabilization - Dimensions Camera",
+      "description": "Keep your video perfectly level while walking or moving. Built-in gyroscope stabilization, no gimbal needed.",
+      "keywords": [
+        "auto level video",
+        "video stabilization",
+        "gyroscope camera",
+        "no gimbal stabilization"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Face Following Camera - Dimensions Camera",
+      "description": "Intelligent face tracking keeps you perfectly framed in both portrait and landscape. X, Y, and Z axis following.",
+      "keywords": [
+        "face tracking camera",
+        "face following video",
+        "auto frame face",
+        "influencer camera"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Features",
+    "contact": "Contact",
+    "copyright": "All rights reserved."
+  }
+}

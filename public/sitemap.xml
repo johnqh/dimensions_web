@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dimensions.cam/en</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/ar</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/de</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/es</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/fr</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/it</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/ja</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/ko</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/pt</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/ru</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/sv</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/th</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/uk</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/vi</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/zh</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+  <url>
+    <loc>https://dimensions.cam/zh-hant</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dimensions.cam/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://dimensions.cam/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://dimensions.cam/de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://dimensions.cam/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://dimensions.cam/fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://dimensions.cam/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dimensions.cam/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dimensions.cam/ko" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://dimensions.cam/pt" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dimensions.cam/ru" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dimensions.cam/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://dimensions.cam/th" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dimensions.cam/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://dimensions.cam/vi" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dimensions.cam/zh" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://dimensions.cam/zh-hant" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dimensions.cam/en" />
+  </url>
+</urlset>
+

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1024" height="1024">
+  <defs>
+    <mask id="centerHole">
+      <rect width="512" height="512" fill="white"/>
+      <circle cx="256" cy="256" r="36" fill="black"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#centerHole)" style="isolation: isolate">
+    <!-- Red (up) — cardinal, larger -->
+    <path d="M256,228 C334,194 334,144 256,58 C178,144 178,194 256,228 Z"
+          fill="#FF3B30" style="mix-blend-mode: multiply" transform="rotate(0, 256, 256)"/>
+    <!-- Orange -->
+    <path d="M256,228 C321,198 321,154 256,84 C191,154 191,198 256,228 Z"
+          fill="#FF9500" style="mix-blend-mode: multiply" transform="rotate(45, 256, 256)"/>
+    <!-- Yellow (right) — cardinal, larger -->
+    <path d="M256,228 C334,194 334,144 256,58 C178,144 178,194 256,228 Z"
+          fill="#FFCC00" style="mix-blend-mode: multiply" transform="rotate(90, 256, 256)"/>
+    <!-- Green -->
+    <path d="M256,228 C321,198 321,154 256,84 C191,154 191,198 256,228 Z"
+          fill="#34C759" style="mix-blend-mode: multiply" transform="rotate(135, 256, 256)"/>
+    <!-- Cyan (down) — cardinal, larger -->
+    <path d="M256,228 C334,194 334,144 256,58 C178,144 178,194 256,228 Z"
+          fill="#5AC8FA" style="mix-blend-mode: multiply" transform="rotate(180, 256, 256)"/>
+    <!-- Blue -->
+    <path d="M256,228 C321,198 321,154 256,84 C191,154 191,198 256,228 Z"
+          fill="#007AFF" style="mix-blend-mode: multiply" transform="rotate(225, 256, 256)"/>
+    <!-- Indigo (left) — cardinal, larger -->
+    <path d="M256,228 C334,194 334,144 256,58 C178,144 178,194 256,228 Z"
+          fill="#5856D6" style="mix-blend-mode: multiply" transform="rotate(270, 256, 256)"/>
+    <!-- Purple -->
+    <path d="M256,228 C321,198 321,154 256,84 C191,154 191,198 256,228 Z"
+          fill="#AF52DE" style="mix-blend-mode: multiply" transform="rotate(315, 256, 256)"/>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="100%" style="stop-color:#1E293B"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="50%" style="stop-color:#3B82F6"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="blob1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="blob2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06B6D4;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:0.3"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Gradient blobs -->
+  <ellipse cx="200" cy="150" rx="250" ry="200" fill="url(#blob1)" filter="url(#blur)"/>
+  <ellipse cx="1000" cy="500" rx="300" ry="250" fill="url(#blob2)" filter="url(#blur)"/>
+
+  <!-- Logo -->
+  <rect x="530" y="180" width="140" height="140" rx="28" fill="url(#textGrad)"/>
+  <text x="600" y="280" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="80" font-weight="bold">S</text>
+
+  <!-- Company name -->
+  <text x="600" y="400" text-anchor="middle" fill="url(#textGrad)" font-family="Arial, sans-serif" font-size="72" font-weight="bold">Sudobility</text>
+
+  <!-- Tagline -->
+  <text x="600" y="470" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial, sans-serif" font-size="32">Solve the puzzle of life</text>
+
+  <!-- Product mention -->
+  <text x="600" y="540" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial, sans-serif" font-size="24">signic.email - Web3 Email Platform</text>
+</svg>

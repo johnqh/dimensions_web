@@ -1,0 +1,9 @@
+# Redirects for legacy URLs that no longer exist
+# These were indexed by Google from a previous version of the site
+
+/Photo%20Lab.html    /en    301
+/Air.Photo.html      /en    301
+/Air.Photo           /en    301
+/Money.News.html     /en    301
+/Air.Photo.htmlKey   /en    301
+

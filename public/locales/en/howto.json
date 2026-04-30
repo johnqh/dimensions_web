@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "How to Record Dual Orientation Video with Dimensions",
+    "description": "Get started recording portrait and landscape video simultaneously with the Dimensions camera app.",
+    "steps": [
+      {
+        "name": "Frame Your Shot",
+        "text": "Open Dimensions and use the cross-shaped viewfinder to compose both your portrait and landscape crops before recording."
+      },
+      {
+        "name": "Record Once",
+        "text": "Slide to record. Face following keeps you centered and auto-leveling keeps the horizon straight while you film."
+      },
+      {
+        "name": "Get Both Videos",
+        "text": "Both portrait (9:16) and landscape (16:9) versions export to your Photos automatically when you stop recording."
+      },
+      {
+        "name": "Post Everywhere",
+        "text": "Upload the portrait version to TikTok and Instagram Reels, and the landscape version to YouTube — all from a single take."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "How to Record Both Portrait and Landscape Video at Once",
+    "description": "Use Dimensions to capture 9:16 portrait and 16:9 landscape video simultaneously from a single recording session.",
+    "steps": [
+      {
+        "name": "Open Dimensions",
+        "text": "Launch the Dimensions camera app on your iPhone. The cross-shaped viewfinder displays both portrait and landscape crop regions."
+      },
+      {
+        "name": "Compose Both Frames",
+        "text": "Position your subject so it looks good in both the portrait (center vertical) and landscape (center horizontal) previews shown in the viewfinder."
+      },
+      {
+        "name": "Slide to Record",
+        "text": "Drag the record slider to start capturing. Dimensions records a square frame and simultaneously renders both 9:16 and 16:9 crops in real time."
+      },
+      {
+        "name": "Export Both Videos",
+        "text": "Stop recording and both portrait and landscape video files are saved to your Photos library automatically — ready to upload to TikTok, YouTube, or Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "How to Preview Both Video Orientations Before Recording",
+    "description": "Use the Dimensions cross-shaped viewfinder to see exactly how both portrait and landscape crops will look in real time.",
+    "steps": [
+      {
+        "name": "Open the Viewfinder",
+        "text": "Launch Dimensions. The unique cross-shaped viewfinder overlay shows both your 9:16 portrait and 16:9 landscape crop regions simultaneously."
+      },
+      {
+        "name": "Adjust Your Framing",
+        "text": "Move your camera, reposition your subject, or pinch to zoom. Both crop previews update instantly so you can compose the perfect shot for both orientations."
+      },
+      {
+        "name": "Confirm Your Composition",
+        "text": "Check that your subject, text, and important details are visible in both the portrait and landscape regions before you start recording."
+      },
+      {
+        "name": "Record with Confidence",
+        "text": "Slide to record knowing exactly what both output videos will look like. No surprises in post-production."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "How to Record Level Video Without a Gimbal",
+    "description": "Dimensions uses your iPhone's gyroscope to automatically keep the horizon level in every frame — no extra gear needed.",
+    "steps": [
+      {
+        "name": "Enable Auto Leveling",
+        "text": "Open Dimensions. Auto leveling is built in and active by default — no settings to configure."
+      },
+      {
+        "name": "Hold Your Phone Naturally",
+        "text": "Film handheld, walk around, or vlog on the go. You do not need to keep your phone perfectly straight."
+      },
+      {
+        "name": "Record Your Video",
+        "text": "Slide to record. The app reads your device's gyroscope and applies per-frame counter-rotation to keep the horizon locked and level throughout."
+      },
+      {
+        "name": "Get Perfectly Straight Output",
+        "text": "Both portrait and landscape exports come out with a perfectly level horizon — no post-production correction needed."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "How to Stay Perfectly Framed with Face Following",
+    "description": "Dimensions tracks your face across three axes and automatically adjusts framing to keep you centered in both portrait and landscape video.",
+    "steps": [
+      {
+        "name": "Position Yourself",
+        "text": "Open Dimensions and point the camera at yourself. The app detects your face and begins tracking automatically."
+      },
+      {
+        "name": "Move Freely",
+        "text": "Walk, gesture, lean, or change height. Face following tracks you across X (horizontal), Y (vertical), and Z (zoom) axes smoothly."
+      },
+      {
+        "name": "Let Pose-Aware Framing Work",
+        "text": "Turn your head and Dimensions adds natural headroom in the direction you are looking — creating composed, cinematic framing automatically."
+      },
+      {
+        "name": "Record Without a Camera Operator",
+        "text": "Slide to record. You stay perfectly centered in both portrait and landscape outputs no matter how much you move during the take."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions is a free iOS camera app that records both portrait and landscape video from a single take. Perfect for content creators who post to TikTok, YouTube, and Instagram.",
+    "features": [
+      "Dual orientation recording (portrait + landscape)",
+      "Live cross-shaped viewfinder preview",
+      "Per-frame auto leveling via gyroscope",
+      "Three-axis face following with pose-aware framing",
+      "16 cinematic camera looks",
+      "Instant dual export to Photos"
+    ]
+  }
+}
