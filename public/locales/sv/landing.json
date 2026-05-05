@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Spela in stående & liggande video samtidigt | Gratis iOS-kamera",
+    "description": "Dimensions är en gratis iOS-kameraapp som spelar in både stående (9:16) och liggande (16:9) video i en enda tagning. Publicera på TikTok, Instagram och YouTube utan att spela in två gånger.",
+    "keywords": [
+      "dubbel orientering kamera",
+      "stående liggande video",
+      "spela in båda orienteringarna",
+      "TikTok YouTube kamera",
+      "gratis videoapp",
+      "kameraapp för influencers",
+      "dubbel inspelning iOS",
+      "kamera för innehållsskapare"
+    ]
+  },
+  "tagline": "En tagning. Varje dimension.",
+  "appIntro": "Sluta spela in två gånger. Dimensions är den gratis iOS-kameran som fångar stående och liggande video samtidigt — perfekt inramad för TikTok, YouTube och Instagram i en enda tagning.",
+  "downloadCta": "Ladda ner gratis på App Store",
+  "learnMore": "Läs mer",
+
+  "problem": {
+    "title": "Multiplattformsdilemmat",
+    "recordTwice": {
+      "title": "Spela in allting två gånger",
+      "description": "Du spikar den perfekta tagningen för YouTube, och sedan ställer du upp allting igen för TikTok. Annorlunda inramning, annorlunda energi — och dubbelt så mycket jobb för varje enskild video."
+    },
+    "cropAndHope": {
+      "title": "Beskär och hoppas",
+      "description": "Eller så spelar du in en gång och beskär i efterhand. Halva bilden försvinner, text klipps bort och din noggrant komponerade bild faller samman."
+    },
+    "wasteHours": {
+      "title": "Slösa bort timmar varje vecka",
+      "description": "Multiplicera detta med varje video du publicerar. Timmar som går förlorade till dubbla inspelningar, omredigeringar och omformatering — bara för att vara aktiv på flera plattformar."
+    },
+    "resolution": "Dimensions löser detta."
+  },
+
+  "howItWorks": {
+    "title": "Så fungerar det",
+    "frameShot": {
+      "title": "Rama in din bild",
+      "description": "Det korsformade sökfönstret visar dina stående och liggande beskärningar i realtid. Komponera båda bilderna innan du börjar spela in."
+    },
+    "recordOnce": {
+      "title": "Spela in en gång",
+      "description": "Svep för att spela in. Ansiktsföljning håller dig centrerad, automatisk horisontutjämning håller horisonten rak. Fokusera bara på ditt innehåll."
+    },
+    "getBothVideos": {
+      "title": "Få båda videorna",
+      "description": "Både stående och liggande versioner exporteras automatiskt till dina Bilder. Ladda upp till valfri plattform direkt."
+    }
+  },
+
+  "features": {
+    "title": "Varför influencers väljer Dimensions",
+    "dualRecording": {
+      "title": "Dubbel orienteringsinspelning",
+      "subtitle": "Spela in en gång, publicera överallt",
+      "description": "Spela in en enda video och få omedelbart både 9:16 stående och 16:9 liggande — redo för TikTok, YouTube och Instagram utan ominspelning eller beskärning.",
+      "heroTitle": "Spela in en gång. Publicera överallt.",
+      "heroSubtitle": "En tagning ger dig stående och liggande — redo för varje plattform.",
+      "problem": "Varje innehållsskapare känner smärtan. Du spikar den perfekta tagningen för YouTube, och inser sedan att du behöver en vertikal version för TikTok och Reels. Så du ställer upp allting igen, gör om belysningen, försöker matcha energin — och det känns aldrig likadant. Eller ännu värre, du beskär den liggande videon till stående och förlorar halva bilden. Multiplicera detta med varje video du publicerar, och du bränner timmar varje vecka bara för att vara aktiv på flera plattformar.",
+      "solution": "Dimensions eliminerar dubbeltagningsproblemet helt. Appen fångar din video i kvadratiskt format och beskär den samtidigt till både 9:16 stående och 16:9 liggande orientering i realtid. När du stoppar inspelningen är båda versionerna redan klara — perfekt inramade, perfekt synkade och redo att laddas upp. En tagning är allt du behöver.",
+      "howItWorks": "Dimensions använder din iPhones kamerasensor för att fånga en kvadratisk bild som helt rymmer både en 9:16 stående beskärning och en 16:9 liggande beskärning. Medan du spelar in renderar appen båda orienteringarna samtidigt med hårdvaruaccelererad videobearbetning. Resultatet är två separata videofiler i hög kvalitet som exporteras till ditt Bildbibliotek i samma ögonblick som du avslutar inspelningen.",
+      "benefits": [
+        "Spara timmar varje vecka genom att eliminera dubbla inspelningssessioner",
+        "Få perfekt inramade stående och liggande videor från varje enskild tagning",
+        "Publicera på TikTok, Instagram Reels, YouTube och Stories från en enda inspelning",
+        "Missa aldrig ett spontant ögonblick för att du spelade in i fel orientering"
+      ],
+      "useCases": {
+        "title": "Perfekt för",
+        "youtubeLabel": "YouTube",
+        "youtube": "Exportera polerade 16:9 liggande videor direkt till YouTube. Full bredbildsinramning utan letterboxing eller klumpiga beskärningar.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Få scrollstoppande 9:16 vertikal video för TikTok och Instagram Reels — från samma tagning du spelade in för YouTube.",
+        "instagramLabel": "Instagram",
+        "instagram": "Täck alla Instagram-format: Reels, Stories och flödespubliceringar. En inspelningssession, varje bildformat hanterat."
+      }
+    },
+    "livePreview": {
+      "title": "Förhandsgranskning i realtid",
+      "subtitle": "Se båda bilderna innan du spelar in",
+      "description": "Det korsformade sökfönstret visar dina stående och liggande beskärningar i realtid. Det du ser är exakt det du får — inga gissningar, inga överraskningar i efterproduktionen.",
+      "heroTitle": "Rama in båda. Missa inget.",
+      "heroSubtitle": "Det korsformade sökfönstret visar båda beskärningarna live — komponera med självförtroende.",
+      "problem": "När du spelar in i en orientering har du ingen aning om hur den andra beskärningen blir. Kommer ditt motiv att klippas av i stående? Kommer viktiga detaljer att hamna utanför den liggande bilden? Du får inte reda på det förrän i efterproduktionen — och vid det laget är ögonblicket borta. Att gissa och hoppas är inget arbetsflöde.",
+      "solution": "Dimensions visar dig exakt hur både dina stående och liggande videor kommer att se ut medan du fortfarande filmar. Den unika korsformade förhandsgranskningen visar båda beskärningarna överlagrade i realtid, så du kan justera din inramning, placera ditt motiv och komponera bilden med fullständigt självförtroende innan du trycker på inspelning.",
+      "howItWorks": "Det aktiva sökfönstret renderar en korsformad överlagring som samtidigt visar 9:16 stående och 16:9 liggande beskärningsområden ovanpå den fullständiga kvadratiska fångstbilden. När du rör kameran, nyper för att zooma eller ompositionerar uppdateras båda förhandsgranskningarna omedelbart. Det du ser på skärmen är exakt det som kommer att exporteras.",
+      "benefits": [
+        "Rama in båda orienteringarna med fullt självförtroende före och under inspelning",
+        "Nyp för att zooma och finjustera din komposition i realtid",
+        "Eliminera överraskningar i efterproduktionen från oväntad beskärning",
+        "Komponera en gång — inget trial and error, inga ominspelningar"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Automatisk utjämning",
+      "subtitle": "Rak horisont, inget gimbal krävs",
+      "description": "Din iPhones gyroskop håller horisonten perfekt rak bild för bild — medan du går, vloggar eller filmar handhållet. Professionell stabilitet utan extra utrustning.",
+      "heroTitle": "Gå. Spring. Håll horisonten rak.",
+      "heroSubtitle": "Bildrutebaserad gyroskopkorrigering håller varje bild rak — inget gimbal krävs.",
+      "problem": "Lutande horisonter får även bra innehåll att se amatörmässigt ut. Handhållet material lutar nästan alltid, särskilt när du går, pratar eller filmar i rörelse. Gimbal hjälper, men de är dyra, klumpiga och ännu en sak att ladda och bära med sig. Mjukvarustabilisering i efterhand kan fixa lutning men introducerar ofta förvrängning eller beskär bilden ytterligare.",
+      "solution": "Dimensions använder din iPhones inbyggda gyroskop för att upptäcka lutning och automatiskt korrigera den i realtid. Din video förblir perfekt rak oavsett hur du håller telefonen — promenerar på gatan, går uppför trappor eller filmar från en obekväm vinkel. Det fungerar omedelbart utan inställningar och utan extra utrustning.",
+      "howItWorks": "Appen läser kontinuerligt din enhets gyroskopsensor för att mäta rotationslutning. Den applicerar en realtidsmotsrotation på videobildrutan, som håller horisonten låst och rak genom hela din inspelning. Denna korrigering sker på hårdvarunivå före export, så både dina stående och liggande videor kommer ut perfekt raka.",
+      "benefits": [
+        "Perfekt rak video utan att bära ett gimbal",
+        "Fungerar i realtid — ingen fixning av sneda bilder i efterhand",
+        "Filma tryggt medan du går, rör dig eller vloggar på språng",
+        "Professionella resultat direkt från din iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Ansiktsföljning",
+      "subtitle": "Rör dig fritt, håll perfekt inramning",
+      "description": "Treaxlig ansiktsspårning följer dig horisontellt, vertikalt och justerar zoom — med intelligent positionsmedveten inramning som lägger till naturligt utrymme i den riktning du tittar.",
+      "heroTitle": "Rör dig fritt. Håll inramningen.",
+      "heroSubtitle": "Treaxlig spårning med positionsmedveten inramning håller dig centrerad oavsett hur du rör dig.",
+      "problem": "Ställ ner telefonen för att spela in en pratande-huvud-video och du är låst i en position. Luta dig för att ta något, ta ett steg åt sidan eller flytta dig närmare kameran och du glider ur bild — särskilt i den trängre stående beskärningen. Du slutar med att spela in om eller lägga tid på att manuellt keyframe:a i din redigerare. För kreatörer som filmar ensamma är att hålla sig i bild en ständig kamp.",
+      "solution": "Dimensions spårar ditt ansikte i realtid över tre axlar — horisontell, vertikal och zoom — och justerar smidigt beskärningen för att hålla dig perfekt centrerad i både stående och liggande utgångar. Rör dig fritt, gestikulera naturligt och låt appen hantera din inramning. Den lägger till och med till extra utrymme i den riktning du vänder dig, så din video ser avsiktligt komponerad ut snarare än robotmässigt spårad.",
+      "howItWorks": "Appen använder ansiktsigenkänning i realtid för att lokalisera ditt ansikte i varje bildruta. Den spårar tre axlar samtidigt: X (horisontell) håller dig centrerad när du rör dig i sidled, Y (vertikal) följer dig när du står upp, sätter dig ner eller ändrar höjd, och Z (zoom) justerar beskärningen tätare eller vidare baserat på ditt avstånd från kameran. Alla justeringar appliceras smidigt för att undvika ryckiga rörelser.",
+      "axes": {
+        "title": "Tre kontrollaxlar",
+        "xLabel": "X",
+        "x": "Horisontell spårning följer dig åt vänster och höger, och håller ditt ansikte centrerat när du rör dig i sidled eller byter position under en tagning.",
+        "yLabel": "Y",
+        "y": "Vertikal spårning justerar när du reser dig, sätter dig ner eller ändrar höjd — ditt ansikte förblir förankrat i bilden utan manuell ompositionering.",
+        "zLabel": "Z",
+        "z": "Zoomspårning drar beskärningen tätare när du tar ett steg bakåt och vidare när du tar ett steg framåt, och bibehåller konsekvent inramning på alla avstånd."
+      },
+      "intelligent": "Dimensions går bortom enkel centerlåsning. Dess intelligenta följningssystem läser din huvudposition och lägger till kompositionellt utrymme i den riktning du tittar. Vänd dig åt vänster och bilden skiftar för att ge dig naturligt andningsutrymme på vänster sida. Detta skapar den typen av medveten, balanserad inramning som vanligtvis kräver en kameraoperatör — automatiskt, i realtid, på båda orienteringarna.",
+      "benefits": [
+        "Håll perfekt inramning utan kameraoperatör eller stativjusteringar",
+        "Rör dig fritt under soloinspelningar — gå, gestikulera, luta dig utan att förlora bilden",
+        "Intelligent positionsmedveten inramning lägger till naturligt utrymme i den riktning du tittar",
+        "Smidig spårning på alla tre axlar ger videon ett professionellt utseende, inte robotmässigt"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Byggd annorlunda",
+    "subtitle": "Funktioner du inte hittar i någon annan kameraapp.",
+    "crossViewfinder": {
+      "title": "Korsformat sökfönster",
+      "description": "En unik överlagring visar både dina stående och liggande beskärningar samtidigt — inte en växlare, inte en delad skärm. Du ser exakt hur båda videorna kommer att se ut i en enda blick."
+    },
+    "poseAware": {
+      "title": "Positionsmedveten inramning",
+      "description": "Går bortom centerlåsning. Dimensions läser din huvudriktning och lägger till filmiskt andningsutrymme där du tittar — den typen av komponerad inramning som vanligtvis kräver en kameraoperatör."
+    },
+    "perFrameLeveling": {
+      "title": "Utjämning per bildruta",
+      "description": "Inte bara stabilisering — äkta horisontkorrigering per bildruta med enhetens gyroskop. Varje bildruta rätas upp individuellt, så din video förblir rak även genom snabba rörelser."
+    },
+    "qualityFirst": {
+      "title": "Kvalitet först-bearbetning",
+      "description": "Spelar in rå, ofiltrerad video för att bevara fullt dynamiskt omfång. Din valda kamerastil appliceras vid export i en enda genomgång — inga staplade filter som försämrar ditt material."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "Och så mycket mer",
+    "cameraLooks": {
+      "title": "16 kamerastilar",
+      "description": "Från filmkorn till Teal & Orange, Bleach Bypass till Noir — välj din filmiska stil och se den live innan du spelar in."
+    },
+    "dualExport": {
+      "title": "Omedelbar dubbelexport",
+      "description": "Både stående och liggande videor sparas till dina Bilder i samma ögonblick som du slutar spela in. Ingen renderingskö, ingen väntan."
+    },
+    "exposure": {
+      "title": "Precis exponeringsratt",
+      "description": "Finjustera ljusstyrkan med en roterande exponeringsratt. Intuitiv, precis och alltid inom räckhåll."
+    },
+    "recording": {
+      "title": "Svep för att spela in",
+      "description": "Dra reglaget för att börja spela in, tryck för snabbfoton — även mitt i en video. En kontroll för allt."
+    },
+    "tapToFocus": {
+      "title": "Tryck för att fokusera",
+      "description": "Tryck var som helst för att ställa in fokus och exponering. En visuell indikator bekräftar låsningen så att du vet exakt var kameran tittar."
+    },
+    "cameraFlip": {
+      "title": "Fram- & bakkamera",
+      "description": "Växla mellan fram- och bakkamera med en smidig vändningsanimation. Ansiktsföljning fungerar med båda."
+    }
+  },
+
+  "free": {
+    "title": "Helt gratis",
+    "description": "Varje funktion. Varje kamerastil. Varje export. Gratis. Ett litet vattenstämpel visas på exporter, som kan tas bort med ett enda engångsköp — inga prenumerationer, inga funktionsbegränsningar.",
+    "watermarkNote": "Liten vattenstämpel på gratisexporter",
+    "removeWatermark": "Engångsköp för att ta bort"
+  },
+
+  "loading": "Laddar...",
+
+  "breadcrumb": {
+    "home": "Hem"
+  },
+
+  "featurePage": {
+    "backToHome": "Tillbaka till startsidan",
+    "screenshotPlaceholder": "Skärmbild kommer snart",
+    "videoPlaceholder": "Demovideo kommer snart",
+    "otherFeatures": "Utforska fler funktioner",
+    "problem": "Problemet",
+    "solution": "Lösningen",
+    "howItWorks": "Så fungerar det",
+    "benefits": "Fördelar"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Dubbel orienteringsinspelning - Dimensions Camera",
+      "description": "Spela in en gång, få både stående (9:16) och liggande (16:9) videor. Perfekt för att publicera på TikTok och YouTube från en enda tagning.",
+      "keywords": [
+        "dubbel orienteringsinspelning",
+        "stående liggande video",
+        "spela in båda orienteringarna",
+        "TikTok YouTube kamera"
+      ]
+    },
+    "livePreview": {
+      "title": "Förhandsgranskning av båda orienteringarna i realtid - Dimensions Camera",
+      "description": "Se exakt hur dina stående och liggande beskärningar ser ut i realtid. Missa aldrig den perfekta bilden.",
+      "keywords": [
+        "kameraförhandsgranskning i realtid",
+        "dubbel förhandsgranskning",
+        "stående liggande förhandsgranskning",
+        "videoinramning"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Automatisk videostabilisering med utjämning - Dimensions Camera",
+      "description": "Håll din video perfekt rak medan du går eller rör dig. Inbyggd gyroskopstabilisering, inget gimbal behövs.",
+      "keywords": [
+        "automatisk videoutjämning",
+        "videostabilisering",
+        "gyroskopkamera",
+        "stabilisering utan gimbal"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Ansiktsföljande kamera - Dimensions Camera",
+      "description": "Intelligent ansiktsspårning håller dig perfekt inramad i både stående och liggande. X-, Y- och Z-axelföljning.",
+      "keywords": [
+        "ansiktsspårning kamera",
+        "ansiktsföljning video",
+        "automatisk ansiktsinramning",
+        "influencer-kamera"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Funktioner",
+    "contact": "Kontakt",
+    "copyright": "Alla rättigheter förbehållna."
+  }
+}

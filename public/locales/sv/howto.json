@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "Så här gör du för att spela in videos med dubbel riktning och dimensioner",
+    "description": "Börja registrera porträtt- och landskapsvideo samtidigt med Dimensions-kameraappen.",
+    "steps": [
+      {
+        "name": "Rahmen din bild",
+        "text": "Öppna dimensioner och använd korsformade sucharen för att komponera både porträtt- och landskapsavtryck innan du sparar."
+      },
+      {
+        "name": "Spela in en gång",
+        "text": "Skriv över för att spela in. Ansiktsföljning håller dig i centrum och automatisk nivellering håller horisonten rak under inspelningen."
+      },
+      {
+        "name": "Få båda videorna",
+        "text": "Både porträtt (9:16) och landskapsläge (16:9) exporteras automatiskt till dina foton när du stoppar upptagningen."
+      },
+      {
+        "name": "Publicera överallt",
+        "text": "Ladda upp porträttversionen till TikTok och Instagram Reels, och landskapsversionen till YouTube – allt från en enda tagning."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "Så här gör du för att spela in videoklipp i porträtt- och landskapsläge samtidigt",
+    "description": "Använd dimensioner för att fånga 9:16-porträtt- och 16:9-landskapsvideo samtidigt från en enda inspelningssession.",
+    "steps": [
+      {
+        "name": "Öppna dimensioner",
+        "text": "Starta Dimensions-kamerapappan på din iPhone. Korsformade visare visar både porträtt- och landskapsklippningsområden."
+      },
+      {
+        "name": "Sätt ihop båda ramarna",
+        "text": "Placera din ämne så att det ser bra ut både i porträttläge (centrerat vertikalt) och landskapsläge (centrerat horisontellt) som visas i visarens förhandsgranskning."
+      },
+      {
+        "name": "Dra för att spela in",
+        "text": "Dra i slidersnäven för att starta inspelning. Dimensions sparar ett kvadratiskt ramverk och renderar samtidigt båda 9:16- och 16:9-avkortningarna i realtid."
+      },
+      {
+        "name": "Exportera båda videorna",
+        "text": "Stoppa upptagning och så sparar båda porträtt- och landskapsvideofiler automatiskt till din Foto-bibliotek – redo att ladda upp till TikTok, YouTube eller Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "Så här förhandsgranskar du båda videornas lägen innan du sparar",
+    "description": "Använd Dimensions kryssformade suchare för att se exakt hur porträtt- och landskapsavtryck kommer att se ut i realtid.",
+    "steps": [
+      {
+        "name": "Öppna sucharen",
+        "text": "Launch Dimensions. Den unika korsformade visningsöverlappningen visar både ditt 9:16-porträtt- och 16:9-landskapsavkortningsområden samtidigt."
+      },
+      {
+        "name": "Anpassa din ramning",
+        "text": "Flytta kameran, omplacera ditt ämne eller zooma in genom att trycka ihop fingrarna. Båda förhandsgranskningarna av avkortning uppdateras omedelbart så att du kan komponera det perfekta taget för båda lägena."
+      },
+      {
+        "name": "Bekräfta din sammansättning",
+        "text": "Kontrollera att ditt ämne, text och viktiga uppgifter är synliga i både porträtt- och landskapsläge innan du börjar spela in."
+      },
+      {
+        "name": "Spela in med självförtroende",
+        "text": "Glid för att spela in och veta exakt hur båda videofilerna kommer att se ut. Inga överraskningar i efterproduktionen."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "Hur man tar upp nivåvideo utan en gimbals",
+    "description": "Dimensions använder din iPhones gyroscop för att automatiskt hålla horisonten nivellerad i varje ram – ingen extra utrustning behövs.",
+    "steps": [
+      {
+        "name": "Aktivera automatisk nivellering",
+        "text": "Öppna dimensioner. Automatisk nivellering är inbyggd och aktiverad som standard – ingen konfiguration behövs."
+      },
+      {
+        "name": "Håll din telefon på ett naturligt sätt",
+        "text": "Film i handen, promenad eller vlog på gång. Du behöver inte hålla din telefon perfekt rak."
+      },
+      {
+        "name": "Spela in din video",
+        "text": "Sidan till att spela in. Appen läser din enhets gyroscop och tillämpar per-frame motrotering för att hålla horisonten låst och nivellerad hela tiden."
+      },
+      {
+        "name": "Få perfekt rak utgång",
+        "text": "Både porträtt- och landskapsexport visar en perfekt nivellerad horisont — ingen efterbearbetning behövs."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Så blir du perfekt inramad med ansiktsföljning",
+    "description": "Dimensions spårar ditt ansikte över tre axlar och justerar automatiskt ramen så att du håller dig centrerad i både porträtt- och landskapsvideo.",
+    "steps": [
+      {
+        "name": "Placera dig själv",
+        "text": "Öppna dimensioner och rikta kameran mot dig själv. Appen upptäcker ditt ansikte och börjar spåra automatiskt."
+      },
+      {
+        "name": "Rör er fritt",
+        "text": "Gå, gestikulera, lut eller ändra höjd. Ansiktsföljning följer dig smidigt över X- (horisontell), Y- (vertikal) och Z-axlarna (zoom)."
+      },
+      {
+        "name": "Låt posemedvetet ramverk fungera",
+        "text": "Vänd på huvudet och Dimensions lägger till naturlig huvudplats i riktningen du tittar — och skapar automatiskt sammansatta, kamerabaserade ramverk."
+      },
+      {
+        "name": "Spela in utan kameramann",
+        "text": "Sidan till att spela in. Du förblir perfekt centrerad i både porträtt- och landskapsläge oavsett hur mycket du rör dig under inspelningen."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions är en gratis iOS-kameraapp som tar videor i både porträtt- och landskapsläge från en enda tagning. Perfekt för innehållsskapare som publicerar till TikTok, YouTube och Instagram.",
+    "features": [
+      "Dubbelriktad upptagning (porträtt + landskap)",
+      "Live förhandsgranskning av kryssformad synare",
+      "Autojustering per bildruta via gyroscop",
+      "Ansiktsföljning i tre akser med positionstänkande ramning",
+      "16 cinematografiska kamerabilder",
+      "Omedelbar dubbelexport till Photos"
+    ]
+  }
+}

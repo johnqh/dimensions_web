@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Hochformat- & Querformat-Video gleichzeitig aufnehmen | Kostenlose iOS-Kamera",
+    "description": "Dimensions ist eine kostenlose iOS-Kamera-App, die gleichzeitig Hochformat- (9:16) und Querformat-Video (16:9) aufnimmt. Poste auf TikTok, Instagram und YouTube, ohne zweimal aufzunehmen.",
+    "keywords": [
+      "Doppelformat-Kamera",
+      "Hochformat Querformat Video",
+      "beide Ausrichtungen aufnehmen",
+      "TikTok YouTube Kamera",
+      "kostenlose Video-App",
+      "Influencer Kamera-App",
+      "Doppelaufnahme iOS",
+      "Content-Creator Kamera"
+    ]
+  },
+  "tagline": "Eine Aufnahme. Jede Dimension.",
+  "appIntro": "Schluss mit doppeltem Aufnehmen. Dimensions ist die kostenlose iOS-Kamera, die Hochformat- und Querformat-Video gleichzeitig aufnimmt — perfekt zugeschnitten für TikTok, YouTube und Instagram aus einer einzigen Aufnahme.",
+  "downloadCta": "Kostenlos im App Store laden",
+  "learnMore": "Mehr erfahren",
+
+  "problem": {
+    "title": "Das Multi-Plattform-Dilemma",
+    "recordTwice": {
+      "title": "Alles zweimal aufnehmen",
+      "description": "Du triffst die perfekte Aufnahme für YouTube und musst dann noch mal für TikTok ansetzen. Anderer Bildausschnitt, andere Energie — und doppelter Aufwand für jedes einzelne Video."
+    },
+    "cropAndHope": {
+      "title": "Zuschneiden und hoffen",
+      "description": "Oder du nimmst einmal auf und schneidest in der Nachbearbeitung zu. Die Hälfte deines Bildes verschwindet, Text wird abgeschnitten und dein sorgfältig komponiertes Bild fällt auseinander."
+    },
+    "wasteHours": {
+      "title": "Stundenlanger Zeitverlust jede Woche",
+      "description": "Multipliziere das mit jedem Video, das du veröffentlichst. Stunden gehen für doppelte Drehs, Nachbearbeitung und Neuformatierung verloren — nur um auf mehreren Plattformen präsent zu bleiben."
+    },
+    "resolution": "Dimensions löst dieses Problem."
+  },
+
+  "howItWorks": {
+    "title": "So funktioniert's",
+    "frameShot": {
+      "title": "Bildausschnitt wählen",
+      "description": "Der kreuzförmige Sucher zeigt dir deine Hochformat- und Querformat-Ausschnitte live an. Komponiere beide Bilder, bevor du auf Aufnahme drückst."
+    },
+    "recordOnce": {
+      "title": "Einmal aufnehmen",
+      "description": "Zum Aufnehmen wischen. Gesichtsverfolgung hält dich zentriert, automatische Horizontausrichtung sorgt für gerade Linien. Konzentriere dich einfach auf deinen Content."
+    },
+    "getBothVideos": {
+      "title": "Beide Videos erhalten",
+      "description": "Sowohl die Hochformat- als auch die Querformat-Version werden automatisch in deine Fotos exportiert. Sofort auf jede Plattform hochladen."
+    }
+  },
+
+  "features": {
+    "title": "Warum Influencer Dimensions wählen",
+    "dualRecording": {
+      "title": "Doppelformat-Aufnahme",
+      "subtitle": "Einmal drehen, überall posten",
+      "description": "Nimm ein einziges Video auf und erhalte sofort sowohl 9:16 Hochformat als auch 16:9 Querformat — bereit für TikTok, YouTube und Instagram ohne erneutes Drehen oder Zuschneiden.",
+      "heroTitle": "Einmal aufnehmen. Überall posten.",
+      "heroSubtitle": "Eine Aufnahme gibt dir Hoch- und Querformat — bereit für jede Plattform.",
+      "problem": "Jeder Content-Creator kennt das Problem. Du triffst die perfekte Aufnahme für YouTube und merkst dann, dass du eine vertikale Version für TikTok und Reels brauchst. Also baust du alles wieder auf, richtest das Licht neu ein, versuchst die Energie zu wiederholen — und es fühlt sich nie gleich an. Oder schlimmer: Du schneidest das Querformat-Video ins Hochformat und verlierst die Hälfte des Bildes. Multipliziere das mit jedem Video, und du verbrennst jede Woche Stunden, nur um auf mehreren Plattformen präsent zu bleiben.",
+      "solution": "Dimensions eliminiert das Problem der doppelten Aufnahme vollständig. Die App nimmt dein Video im Quadratformat auf und schneidet es gleichzeitig in Echtzeit in 9:16 Hochformat und 16:9 Querformat zu. Wenn du die Aufnahme stoppst, sind beide Versionen bereits fertig — perfekt eingerahmt, perfekt synchronisiert und bereit zum Hochladen. Eine Aufnahme ist alles, was du brauchst.",
+      "howItWorks": "Dimensions nutzt den Kamerasensor deines iPhone, um ein quadratisches Bild aufzunehmen, das sowohl einen 9:16-Hochformat- als auch einen 16:9-Querformat-Ausschnitt vollständig enthält. Während der Aufnahme rendert die App beide Ausrichtungen gleichzeitig mit hardwarebeschleunigter Videoverarbeitung. Das Ergebnis sind zwei separate, hochwertige Videodateien, die sofort nach der Aufnahme in deine Fotomediathek exportiert werden.",
+      "benefits": [
+        "Spare jede Woche Stunden durch das Wegfallen doppelter Aufnahmesitzungen",
+        "Erhalte perfekt eingerahmte Hoch- und Querformat-Videos aus jeder einzelnen Aufnahme",
+        "Poste auf TikTok, Instagram Reels, YouTube und Stories aus einem Dreh",
+        "Verpasse nie einen spontanen Moment, weil du in der falschen Ausrichtung aufgenommen hast"
+      ],
+      "useCases": {
+        "title": "Perfekt für",
+        "youtubeLabel": "YouTube",
+        "youtube": "Exportiere professionelle 16:9-Querformat-Videos direkt auf YouTube. Volles Breitbild ohne Letterboxing oder unangenehme Zuschnitte.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Erhalte scrollstoppende 9:16-Vertikalvideos für TikTok und Instagram Reels — aus der gleichen Aufnahme, die du für YouTube gedreht hast.",
+        "instagramLabel": "Instagram",
+        "instagram": "Decke jedes Instagram-Format ab: Reels, Stories und Feed-Beiträge. Eine Aufnahmesitzung, jedes Seitenverhältnis abgedeckt."
+      }
+    },
+    "livePreview": {
+      "title": "Live-Vorschau",
+      "subtitle": "Sieh beide Bildausschnitte vor der Aufnahme",
+      "description": "Der kreuzförmige Sucher zeigt dir deine Hoch- und Querformat-Ausschnitte in Echtzeit. Was du siehst, ist genau das, was du bekommst — kein Raten, keine Überraschungen in der Nachbearbeitung.",
+      "heroTitle": "Beides einrahmen. Nichts verpassen.",
+      "heroSubtitle": "Der kreuzförmige Sucher zeigt beide Ausschnitte live — komponiere mit Sicherheit.",
+      "problem": "Wenn du in einer Ausrichtung aufnimmst, hast du keine Ahnung, wie der andere Ausschnitt ausfallen wird. Wird dein Motiv im Hochformat abgeschnitten? Fallen wichtige Details aus dem Querformat-Bild heraus? Das erfährst du erst in der Nachbearbeitung — und dann ist der Moment vorbei. Raten und Hoffen ist kein Workflow.",
+      "solution": "Dimensions zeigt dir genau, wie sowohl dein Hoch- als auch dein Querformat-Video aussehen werden, während du noch filmst. Die einzigartige kreuzförmige Vorschau zeigt beide Ausschnitte in Echtzeit überlagert, sodass du deinen Bildausschnitt anpassen, dein Motiv positionieren und die Aufnahme mit vollem Vertrauen komponieren kannst, bevor du auf Aufnahme drückst.",
+      "howItWorks": "Der Live-Sucher rendert eine kreuzförmige Überlagerung, die gleichzeitig die 9:16-Hochformat- und 16:9-Querformat-Ausschnittbereiche über dem vollen quadratischen Aufnahmebereich anzeigt. Wenn du die Kamera bewegst, zum Zoomen pinchst oder dich neu positionierst, aktualisieren sich beide Ausschnitt-Vorschauen sofort. Was du auf dem Bildschirm siehst, ist genau das, was exportiert wird.",
+      "benefits": [
+        "Rahme beide Ausrichtungen mit voller Sicherheit vor und während der Aufnahme ein",
+        "Pinch-to-Zoom für die Feinabstimmung deiner Komposition in Echtzeit",
+        "Eliminiere Überraschungen in der Nachbearbeitung durch unerwartetes Zuschneiden",
+        "Einmal komponieren — kein Ausprobieren, keine Neuaufnahmen"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Automatische Horizontausrichtung",
+      "subtitle": "Gerader Horizont, kein Gimbal nötig",
+      "description": "Das Gyroskop deines iPhone hält den Horizont Bild für Bild perfekt waagerecht — beim Gehen, Vloggen oder Freihand-Filmen. Professionelle Stabilität ohne zusätzliche Ausrüstung.",
+      "heroTitle": "Gehen. Laufen. Gerade bleiben.",
+      "heroSubtitle": "Gyroskop-Korrektur Bild für Bild hält jedes Einzelbild gerade — kein Gimbal nötig.",
+      "problem": "Schiefe Horizonte lassen selbst großartige Inhalte amateurhaft aussehen. Freihandaufnahmen driften fast immer schief, besonders beim Gehen, Reden oder Filmen in Bewegung. Gimbals helfen, sind aber teuer, sperrig und ein weiteres Gerät, das geladen und mitgenommen werden muss. Software-Stabilisierung in der Nachbearbeitung kann die Neigung korrigieren, führt aber oft zu Verzerrungen oder schneidet das Bild noch weiter zu.",
+      "solution": "Dimensions nutzt das eingebaute Gyroskop deines iPhone, um Neigungen zu erkennen und automatisch in Echtzeit zu korrigieren. Dein Video bleibt perfekt waagerecht, egal wie du dein Handy hältst — beim Spazieren auf der Straße, Treppensteigen oder Filmen aus einem ungünstigen Winkel. Es funktioniert sofort ohne Setup und ohne zusätzliche Ausrüstung.",
+      "howItWorks": "Die App liest kontinuierlich den Gyroskopsensor deines Geräts, um die Rotationsneigung zu messen. Sie wendet eine Echtzeit-Gegenrotation auf das Videobild an und hält den Horizont während der gesamten Aufnahme gerade und waagerecht. Diese Korrektur erfolgt auf Hardwareebene vor dem Export, sodass sowohl dein Hochformat- als auch dein Querformat-Video perfekt gerade herauskommen.",
+      "benefits": [
+        "Perfekt waagerechtes Video ohne Gimbal",
+        "Funktioniert in Echtzeit — kein Korrigieren schiefer Aufnahmen in der Nachbearbeitung",
+        "Filme selbstbewusst beim Gehen, in Bewegung oder beim Vloggen unterwegs",
+        "Professionelle Ergebnisse direkt vom iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Gesichtsverfolgung",
+      "subtitle": "Frei bewegen, perfekt im Bild bleiben",
+      "description": "Dreiachsige Gesichtsverfolgung folgt dir horizontal, vertikal und passt den Zoom an — mit intelligenter, posenbasierter Bildkomposition, die natürlichen Kopfraum in Blickrichtung hinzufügt.",
+      "heroTitle": "Frei bewegen. Im Bild bleiben.",
+      "heroSubtitle": "Dreiachsige Verfolgung mit posenbasierter Bildkomposition hält dich zentriert, egal wie du dich bewegst.",
+      "problem": "Stell dein Handy ab, um ein Talking-Head-Video aufzunehmen, und du bist auf eine Position festgelegt. Lehn dich vor, um etwas zu greifen, tritt zur Seite oder bewege dich näher zur Kamera und du rutschst aus dem Bild — besonders im engeren Hochformat-Ausschnitt. Du nimmst am Ende erneut auf oder verbringst Zeit mit manuellem Keyframing im Editor. Für Creator, die alleine filmen, ist es ein ständiger Kampf, im Bild zu bleiben.",
+      "solution": "Dimensions verfolgt dein Gesicht in Echtzeit auf drei Achsen — horizontal, vertikal und Zoom — und passt den Ausschnitt sanft an, um dich sowohl im Hoch- als auch im Querformat perfekt zentriert zu halten. Bewege dich frei, gestikuliere natürlich und lass die App deine Bildkomposition übernehmen. Sie fügt sogar zusätzlichen Kopfraum in die Richtung hinzu, in die du schaust, sodass dein Video bewusst komponiert aussieht statt roboterhaft verfolgt.",
+      "howItWorks": "Die App verwendet Echtzeit-Gesichtserkennung, um dein Gesicht in jedem Einzelbild zu lokalisieren. Sie verfolgt gleichzeitig drei Achsen: X (horizontal) hält dich zentriert, wenn du dich seitlich bewegst, Y (vertikal) folgt dir, wenn du aufstehst, dich setzt oder deine Höhe änderst, und Z (Zoom) passt den Ausschnitt enger oder weiter an, je nach deinem Abstand zur Kamera. Alle Anpassungen werden sanft angewendet, um ruckartige Bewegungen zu vermeiden.",
+      "axes": {
+        "title": "Drei Steuerungsachsen",
+        "xLabel": "X",
+        "x": "Horizontale Verfolgung folgt dir nach links und rechts und hält dein Gesicht zentriert, wenn du dich seitlich bewegst oder deine Position während einer Aufnahme änderst.",
+        "yLabel": "Y",
+        "y": "Vertikale Verfolgung passt sich an, wenn du aufstehst, dich hinsetzt oder deine Höhe änderst — dein Gesicht bleibt im Bild verankert, ohne manuelles Nachjustieren.",
+        "zLabel": "Z",
+        "z": "Zoom-Verfolgung macht den Ausschnitt enger, wenn du zurücktrittst, und weiter, wenn du vortrittst — für konstante Bildkomposition in jedem Abstand."
+      },
+      "intelligent": "Dimensions geht über einfaches Zentrieren hinaus. Das intelligente Verfolgungssystem liest deine Kopfhaltung und fügt kompositorischen Kopfraum in Blickrichtung hinzu. Dreh dich nach links und der Bildausschnitt verschiebt sich, um natürlichen Freiraum auf der linken Seite zu schaffen. Das erzeugt die Art von bewusster, ausgewogener Bildkomposition, die normalerweise einen Kameramann erfordert — automatisch, in Echtzeit, für beide Ausrichtungen.",
+      "benefits": [
+        "Bleibe perfekt im Bild ohne Kameramann oder Stativanpassungen",
+        "Bewege dich frei bei Solo-Aufnahmen — gehen, gestikulieren, lehnen ohne aus dem Bild zu fallen",
+        "Intelligente posenbasierte Bildkomposition fügt natürlichen Kopfraum in Blickrichtung hinzu",
+        "Sanfte Verfolgung auf allen drei Achsen sorgt für professionelle, nicht roboterhafte Videos"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Anders gebaut",
+    "subtitle": "Funktionen, die du in keiner anderen Kamera-App findest.",
+    "crossViewfinder": {
+      "title": "Kreuzförmiger Sucher",
+      "description": "Eine einzigartige Überlagerung zeigt dir gleichzeitig beide Ausschnitte — Hoch- und Querformat. Kein Umschalten, kein geteilter Bildschirm. Du siehst auf einen Blick, wie beide Videos aussehen werden."
+    },
+    "poseAware": {
+      "title": "Posenbasierte Bildkomposition",
+      "description": "Geht über einfaches Zentrieren hinaus. Dimensions liest deine Kopfrichtung und fügt filmischen Freiraum in Blickrichtung hinzu — die Art von durchdachter Bildkomposition, die normalerweise einen Kameramann erfordert."
+    },
+    "perFrameLeveling": {
+      "title": "Einzelbild-Horizontkorrektur",
+      "description": "Nicht nur Stabilisierung — echte Horizontkorrektur Bild für Bild mittels Gyroskop. Jedes Einzelbild wird individuell begradigt, sodass dein Video selbst bei schnellen Bewegungen waagerecht bleibt."
+    },
+    "qualityFirst": {
+      "title": "Qualität an erster Stelle",
+      "description": "Nimmt rohes, ungefiltertes Video auf, um den vollen Dynamikumfang zu bewahren. Dein gewählter Kamera-Look wird beim Export in einem einzigen Durchgang angewendet — keine gestapelten Filter, die dein Material verschlechtern."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "Und noch so viel mehr",
+    "cameraLooks": {
+      "title": "16 Kamera-Looks",
+      "description": "Von Film Grain bis Teal & Orange, Bleach Bypass bis Noir — wähle deinen filmischen Stil und sieh ihn live, bevor du aufnimmst."
+    },
+    "dualExport": {
+      "title": "Sofortiger Doppelexport",
+      "description": "Sowohl das Hochformat- als auch das Querformat-Video werden sofort in deine Fotos gespeichert, wenn du die Aufnahme stoppst. Keine Render-Warteschlange, kein Warten."
+    },
+    "exposure": {
+      "title": "Präzises Belichtungsrad",
+      "description": "Feinabstimmung der Helligkeit mit einem Dreh-Belichtungsrad. Intuitiv, präzise und immer griffbereit."
+    },
+    "recording": {
+      "title": "Wischen zum Aufnehmen",
+      "description": "Zieh den Schieberegler zum Aufnehmen, tippe für sofortige Fotos — auch mitten im Video. Ein Bedienelement für alles."
+    },
+    "tapToFocus": {
+      "title": "Tippen zum Fokussieren",
+      "description": "Tippe irgendwo, um Fokus und Belichtung einzustellen. Ein visueller Indikator bestätigt die Fixierung, damit du genau weißt, wohin die Kamera schaut."
+    },
+    "cameraFlip": {
+      "title": "Front- & Rückkamera",
+      "description": "Wechsle mit einer fließenden Drehanimation zwischen Front- und Rückkamera. Gesichtsverfolgung funktioniert bei beiden."
+    }
+  },
+
+  "free": {
+    "title": "Komplett kostenlos",
+    "description": "Jede Funktion. Jeder Kamera-Look. Jeder Export. Kostenlos. Ein kleines Wasserzeichen erscheint auf Exporten und kann mit einem einmaligen Kauf entfernt werden — keine Abos, keine Funktionssperren.",
+    "watermarkNote": "Kleines Wasserzeichen auf kostenlosen Exporten",
+    "removeWatermark": "Einmaliger Kauf zum Entfernen"
+  },
+
+  "loading": "Wird geladen...",
+
+  "breadcrumb": {
+    "home": "Startseite"
+  },
+
+  "featurePage": {
+    "backToHome": "Zurück zur Startseite",
+    "screenshotPlaceholder": "Screenshot folgt in Kürze",
+    "videoPlaceholder": "Demovideo folgt in Kürze",
+    "otherFeatures": "Weitere Funktionen entdecken",
+    "problem": "Das Problem",
+    "solution": "Die Lösung",
+    "howItWorks": "So funktioniert's",
+    "benefits": "Vorteile"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Doppelformat-Aufnahme - Dimensions Kamera",
+      "description": "Einmal aufnehmen, beide Videos erhalten — Hochformat (9:16) und Querformat (16:9). Perfekt zum Posten auf TikTok und YouTube aus einer einzigen Aufnahme.",
+      "keywords": [
+        "Doppelformat-Aufnahme",
+        "Hochformat Querformat Video",
+        "beide Ausrichtungen aufnehmen",
+        "TikTok YouTube Kamera"
+      ]
+    },
+    "livePreview": {
+      "title": "Live-Vorschau beider Ausrichtungen - Dimensions Kamera",
+      "description": "Sieh in Echtzeit, wie deine Hoch- und Querformat-Ausschnitte aussehen. Verpasse nie den perfekten Bildausschnitt.",
+      "keywords": [
+        "Live-Kameravorschau",
+        "Doppelvorschau",
+        "Hochformat Querformat Vorschau",
+        "Videobildausschnitt"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Automatische Horizontausrichtung und Videostabilisierung - Dimensions Kamera",
+      "description": "Halte dein Video beim Gehen oder in Bewegung perfekt waagerecht. Eingebaute Gyroskop-Stabilisierung, kein Gimbal nötig.",
+      "keywords": [
+        "Video automatisch ausrichten",
+        "Videostabilisierung",
+        "Gyroskop-Kamera",
+        "Stabilisierung ohne Gimbal"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Kamera mit Gesichtsverfolgung - Dimensions Kamera",
+      "description": "Intelligente Gesichtsverfolgung hält dich sowohl im Hoch- als auch im Querformat perfekt im Bild. Verfolgung auf X-, Y- und Z-Achse.",
+      "keywords": [
+        "Gesichtsverfolgung Kamera",
+        "Gesichtserkennung Video",
+        "Automatische Gesichtseinrahmung",
+        "Influencer Kamera"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Funktionen",
+    "contact": "Kontakt",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

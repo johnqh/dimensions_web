@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Graba video vertical y horizontal a la vez | Cámara iOS gratuita",
+    "description": "Dimensions es una app de cámara iOS gratuita que graba video en vertical (9:16) y horizontal (16:9) en una sola toma. Publica en TikTok, Instagram y YouTube sin grabar dos veces.",
+    "keywords": [
+      "cámara doble orientación",
+      "video vertical horizontal",
+      "grabar ambas orientaciones",
+      "cámara TikTok YouTube",
+      "app de video gratis",
+      "app de cámara para influencers",
+      "grabación dual iOS",
+      "cámara para creadores de contenido"
+    ]
+  },
+  "tagline": "Una toma. Todas las dimensiones.",
+  "appIntro": "Deja de grabar dos veces. Dimensions es la cámara iOS gratuita que captura video en vertical y horizontal simultáneamente — perfectamente encuadrado para TikTok, YouTube e Instagram en una sola toma.",
+  "downloadCta": "Descarga gratis en el App Store",
+  "learnMore": "Más información",
+
+  "problem": {
+    "title": "El dilema multiplataforma",
+    "recordTwice": {
+      "title": "Grabar todo dos veces",
+      "description": "Logras la toma perfecta para YouTube y luego tienes que preparar todo de nuevo para TikTok. Diferente encuadre, diferente energía — y el doble de trabajo por cada video."
+    },
+    "cropAndHope": {
+      "title": "Recortar y cruzar los dedos",
+      "description": "O grabas una sola vez y recortas en posproducción. Pierdes la mitad del cuadro, el texto se corta y tu composición cuidadosa se desmorona."
+    },
+    "wasteHours": {
+      "title": "Perder horas cada semana",
+      "description": "Multiplica esto por cada video que publicas. Horas perdidas en grabaciones duplicadas, reediciones y reformateos — solo para mantener presencia en varias plataformas."
+    },
+    "resolution": "Dimensions lo soluciona."
+  },
+
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "frameShot": {
+      "title": "Encuadra tu toma",
+      "description": "El visor en forma de cruz muestra tus recortes vertical y horizontal en vivo. Compón ambos encuadres antes de grabar."
+    },
+    "recordOnce": {
+      "title": "Graba una vez",
+      "description": "Desliza para grabar. El seguimiento facial te mantiene centrado, la nivelación automática mantiene el horizonte recto. Solo concéntrate en tu contenido."
+    },
+    "getBothVideos": {
+      "title": "Obtén ambos videos",
+      "description": "Las versiones vertical y horizontal se exportan automáticamente a tus Fotos. Sube a cualquier plataforma al instante."
+    }
+  },
+
+  "features": {
+    "title": "Por qué los influencers eligen Dimensions",
+    "dualRecording": {
+      "title": "Grabación en doble orientación",
+      "subtitle": "Graba una vez, publica en todas partes",
+      "description": "Graba un solo video y obtén al instante tanto vertical 9:16 como horizontal 16:9 — listo para TikTok, YouTube e Instagram sin volver a grabar ni recortar.",
+      "heroTitle": "Graba una vez. Publica en todas partes.",
+      "heroSubtitle": "Una sola toma te da vertical y horizontal — listo para cada plataforma.",
+      "problem": "Todo creador de contenido conoce el dolor. Logras la toma perfecta para YouTube y luego te das cuenta de que necesitas una versión vertical para TikTok y Reels. Así que preparas todo de nuevo, reajustas la iluminación, intentas igualar la energía — y nunca se siente igual. O peor, recortas el video horizontal a vertical y pierdes la mitad del cuadro. Multiplica esto por cada video que publicas y estarás perdiendo horas cada semana solo para mantenerte en varias plataformas.",
+      "solution": "Dimensions elimina el problema de la doble grabación por completo. Captura tu video en formato cuadrado y simultáneamente lo recorta en orientación vertical 9:16 y horizontal 16:9 en tiempo real. Cuando dejas de grabar, ambas versiones ya están listas — perfectamente encuadradas, perfectamente sincronizadas y listas para subir. Una sola toma es todo lo que necesitas.",
+      "howItWorks": "Dimensions usa el sensor de la cámara de tu iPhone para capturar un cuadro cuadrado que contiene completamente tanto un recorte vertical 9:16 como uno horizontal 16:9. Mientras grabas, la app renderiza ambas orientaciones simultáneamente usando procesamiento de video acelerado por hardware. El resultado son dos archivos de video separados y de alta calidad exportados a tu biblioteca de Fotos en el momento en que terminas de grabar.",
+      "benefits": [
+        "Ahorra horas cada semana eliminando sesiones de grabación duplicadas",
+        "Obtén videos vertical y horizontal perfectamente encuadrados en cada toma",
+        "Publica en TikTok, Instagram Reels, YouTube y Stories desde una sola grabación",
+        "Nunca pierdas un momento espontáneo por estar grabando en la orientación equivocada"
+      ],
+      "useCases": {
+        "title": "Perfecto para",
+        "youtubeLabel": "YouTube",
+        "youtube": "Exporta videos 16:9 horizontal pulidos directamente a YouTube. Encuadre panorámico completo sin barras negras ni recortes extraños.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Obtén video vertical 9:16 que atrapa la atención para TikTok e Instagram Reels — de la misma toma que grabaste para YouTube.",
+        "instagramLabel": "Instagram",
+        "instagram": "Cubre todos los formatos de Instagram: Reels, Stories y publicaciones del feed. Una sola sesión de grabación, todas las relaciones de aspecto resueltas."
+      }
+    },
+    "livePreview": {
+      "title": "Vista previa en vivo",
+      "subtitle": "Ve ambos encuadres antes de grabar",
+      "description": "El visor en forma de cruz superpone tus recortes vertical y horizontal en tiempo real. Lo que ves es exactamente lo que obtienes — sin adivinar, sin sorpresas en posproducción.",
+      "heroTitle": "Encuadra ambos. No pierdas nada.",
+      "heroSubtitle": "El visor en forma de cruz muestra ambos recortes en vivo — compón con confianza.",
+      "problem": "Cuando grabas en una orientación, no tienes idea de cómo quedará el otro recorte. ¿Se cortará tu sujeto en vertical? ¿Quedarán detalles importantes fuera del encuadre horizontal? Solo lo descubres en posproducción — y para entonces, el momento ya pasó. Adivinar y esperar no es un flujo de trabajo.",
+      "solution": "Dimensions te muestra exactamente cómo se verán tus videos vertical y horizontal mientras sigues filmando. La vista previa única en forma de cruz muestra ambos recortes superpuestos en tiempo real, para que puedas ajustar tu encuadre, posicionar tu sujeto y componer la toma con total confianza antes de presionar grabar.",
+      "howItWorks": "El visor en vivo renderiza una superposición en forma de cruz que muestra simultáneamente las regiones de recorte vertical 9:16 y horizontal 16:9 sobre el área de captura cuadrada completa. Al mover la cámara, hacer zoom con los dedos o reposicionar, ambas vistas previas se actualizan al instante. Lo que ves en pantalla es exactamente lo que se exportará.",
+      "benefits": [
+        "Encuadra ambas orientaciones con total confianza antes y durante la grabación",
+        "Usa el zoom con los dedos para ajustar tu composición en tiempo real",
+        "Elimina sorpresas en posproducción por recortes inesperados",
+        "Compón una vez — sin prueba y error, sin regrabaciones"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Nivelación automática",
+      "subtitle": "Horizonte estable, sin gimbal",
+      "description": "El giroscopio de tu iPhone mantiene el horizonte perfectamente nivelado cuadro por cuadro — mientras caminas, haces vlog o filmas a pulso. Estabilidad profesional sin equipo extra.",
+      "heroTitle": "Camina. Corre. Mantén el nivel.",
+      "heroSubtitle": "Corrección por giroscopio cuadro a cuadro mantiene cada fotograma recto — sin gimbal.",
+      "problem": "Los horizontes inclinados hacen que incluso el mejor contenido se vea amateur. Las grabaciones a pulso casi siempre se desvían del nivel, especialmente cuando caminas, hablas o filmas en movimiento. Los gimbals ayudan, pero son caros, voluminosos y una cosa más que cargar y mantener cargada. La estabilización por software en posproducción puede corregir la inclinación pero a menudo introduce distorsiones o recorta aún más tu cuadro.",
+      "solution": "Dimensions usa el giroscopio integrado de tu iPhone para detectar la inclinación y corregirla automáticamente en tiempo real. Tu video se mantiene perfectamente nivelado sin importar cómo sostengas el teléfono — caminando por la calle, subiendo escaleras o filmando desde un ángulo incómodo. Funciona al instante sin configuración y sin equipo extra.",
+      "howItWorks": "La app lee continuamente el sensor giroscópico de tu dispositivo para medir la inclinación rotacional. Aplica una contra-rotación en tiempo real al cuadro de video, manteniendo el horizonte fijo y nivelado durante toda la grabación. Esta corrección ocurre a nivel de hardware antes de la exportación, así que tanto tus videos vertical como horizontal salen perfectamente rectos.",
+      "benefits": [
+        "Video perfectamente nivelado sin cargar un gimbal",
+        "Funciona en tiempo real — sin corregir tomas torcidas en posproducción",
+        "Filma con confianza mientras caminas, te mueves o haces vlog en movimiento",
+        "Resultados de aspecto profesional directo desde tu iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Seguimiento facial",
+      "subtitle": "Muévete libremente, mantente encuadrado",
+      "description": "Seguimiento facial en tres ejes te sigue horizontal, verticalmente y ajusta el zoom — con encuadre inteligente que reconoce tu postura y añade espacio natural hacia donde miras.",
+      "heroTitle": "Muévete libremente. Quédate en cuadro.",
+      "heroSubtitle": "Seguimiento en tres ejes con encuadre consciente de la postura te mantiene centrado sin importar cómo te muevas.",
+      "problem": "Colocas tu teléfono para grabar un video hablando a cámara y quedas atrapado en una posición. Te inclinas a tomar algo, das un paso al lado o te acercas a la cámara y sales del encuadre — especialmente en el recorte vertical más ajustado. Terminas regrabando o dedicando tiempo a ajustar keyframes manualmente en tu editor. Para creadores que filman solos, mantenerse en cuadro es una batalla constante.",
+      "solution": "Dimensions rastrea tu rostro en tiempo real en tres ejes — horizontal, vertical y zoom — y ajusta suavemente el recorte para mantenerte perfectamente centrado en ambas salidas vertical y horizontal. Muévete libremente, gesticula con naturalidad y deja que la app se encargue de tu encuadre. Incluso añade espacio extra en la dirección hacia donde giras, para que tu video se vea intencionalmente compuesto en lugar de seguido robóticamente.",
+      "howItWorks": "La app utiliza detección facial en tiempo real para localizar tu rostro en cada cuadro. Rastrea tres ejes simultáneamente: X (horizontal) te mantiene centrado al moverte de lado a lado, Y (vertical) te sigue al pararte, sentarte o cambiar de altura, y Z (zoom) ajusta el recorte más cerrado o más abierto según tu distancia de la cámara. Todos los ajustes se aplican suavemente para evitar movimientos bruscos.",
+      "axes": {
+        "title": "Tres ejes de control",
+        "xLabel": "X",
+        "x": "El seguimiento horizontal te sigue a izquierda y derecha, manteniendo tu rostro centrado al moverte de lado a lado o cambiar de posición durante una toma.",
+        "yLabel": "Y",
+        "y": "El seguimiento vertical se ajusta cuando te pones de pie, te sientas o cambias de altura — tu rostro se mantiene anclado en el cuadro sin reposicionamiento manual.",
+        "zLabel": "Z",
+        "z": "El seguimiento de zoom acerca el recorte cuando te alejas y lo amplía cuando te acercas, manteniendo un encuadre consistente a cualquier distancia."
+      },
+      "intelligent": "Dimensions va más allá del simple seguimiento centrado. Su sistema de seguimiento inteligente lee la postura de tu cabeza y añade espacio compositivo en la dirección hacia donde miras. Gira a la izquierda y el cuadro se desplaza para darte espacio natural en el lado izquierdo. Esto crea el tipo de encuadre equilibrado y con propósito que normalmente requiere un operador de cámara — automáticamente, en tiempo real, en ambas orientaciones.",
+      "benefits": [
+        "Mantente perfectamente encuadrado sin operador de cámara ni ajustes de trípode",
+        "Muévete libremente durante grabaciones en solitario — camina, gesticula, inclínate sin perder el encuadre",
+        "Encuadre inteligente consciente de la postura añade espacio natural en la dirección que miras",
+        "Seguimiento suave en los tres ejes mantiene el video con aspecto profesional, no robótico"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Diseñado diferente",
+    "subtitle": "Funciones que no encontrarás en ninguna otra app de cámara.",
+    "crossViewfinder": {
+      "title": "Visor en forma de cruz",
+      "description": "Una superposición única muestra tus recortes vertical y horizontal simultáneamente — no es un botón de cambio, ni una pantalla dividida. Ves exactamente cómo quedarán ambos videos de un solo vistazo."
+    },
+    "poseAware": {
+      "title": "Encuadre consciente de la postura",
+      "description": "Va más allá del seguimiento centrado. Dimensions lee la dirección de tu cabeza y añade espacio cinematográfico hacia donde miras — el tipo de composición que normalmente requiere un operador de cámara."
+    },
+    "perFrameLeveling": {
+      "title": "Nivelación cuadro a cuadro",
+      "description": "No es solo estabilización — es corrección real del horizonte cuadro por cuadro usando el giroscopio de tu dispositivo. Cada cuadro se endereza individualmente, para que tu video se mantenga nivelado incluso en movimientos rápidos."
+    },
+    "qualityFirst": {
+      "title": "Procesamiento que prioriza la calidad",
+      "description": "Graba video sin filtros para preservar el rango dinámico completo. El estilo de cámara que elijas se aplica durante la exportación en una sola pasada — sin filtros apilados que degraden tu material."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "Y mucho más",
+    "cameraLooks": {
+      "title": "16 estilos de cámara",
+      "description": "Desde Grano de Película hasta Teal & Orange, Bleach Bypass hasta Noir — elige tu estilo cinematográfico y vélo en vivo antes de grabar."
+    },
+    "dualExport": {
+      "title": "Exportación dual instantánea",
+      "description": "Ambos videos vertical y horizontal se guardan en tus Fotos en el momento en que dejas de grabar. Sin cola de renderizado, sin esperas."
+    },
+    "exposure": {
+      "title": "Dial de exposición de precisión",
+      "description": "Ajusta el brillo con un dial de exposición rotatorio. Intuitivo, preciso y siempre al alcance."
+    },
+    "recording": {
+      "title": "Desliza para grabar",
+      "description": "Arrastra el deslizador para empezar a grabar, toca para fotos instantáneas — incluso durante el video. Un solo control para todo."
+    },
+    "tapToFocus": {
+      "title": "Toca para enfocar",
+      "description": "Toca en cualquier lugar para fijar el enfoque y la exposición. Un indicador visual confirma el bloqueo para que sepas exactamente dónde está mirando la cámara."
+    },
+    "cameraFlip": {
+      "title": "Cámara frontal y trasera",
+      "description": "Cambia entre la cámara frontal y trasera con una animación fluida. El seguimiento facial funciona con ambas."
+    }
+  },
+
+  "free": {
+    "title": "Completamente gratis",
+    "description": "Todas las funciones. Todos los estilos de cámara. Todas las exportaciones. Gratis. Una pequeña marca de agua aparece en las exportaciones, que se puede eliminar con una sola compra única — sin suscripciones, sin funciones bloqueadas.",
+    "watermarkNote": "Pequeña marca de agua en exportaciones gratuitas",
+    "removeWatermark": "Compra única para eliminarla"
+  },
+
+  "loading": "Cargando...",
+
+  "breadcrumb": {
+    "home": "Inicio"
+  },
+
+  "featurePage": {
+    "backToHome": "Volver al inicio",
+    "screenshotPlaceholder": "Captura de pantalla próximamente",
+    "videoPlaceholder": "Video de demostración próximamente",
+    "otherFeatures": "Explora más funciones",
+    "problem": "El problema",
+    "solution": "La solución",
+    "howItWorks": "Cómo funciona",
+    "benefits": "Beneficios"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Grabación en doble orientación - Dimensions Camera",
+      "description": "Graba una vez, obtén video en vertical (9:16) y horizontal (16:9). Perfecto para publicar en TikTok y YouTube desde una sola toma.",
+      "keywords": [
+        "grabación doble orientación",
+        "video vertical horizontal",
+        "grabar ambas orientaciones",
+        "cámara TikTok YouTube"
+      ]
+    },
+    "livePreview": {
+      "title": "Vista previa en vivo de ambas orientaciones - Dimensions Camera",
+      "description": "Ve exactamente cómo se ven tus recortes vertical y horizontal en tiempo real. Nunca pierdas el encuadre perfecto.",
+      "keywords": [
+        "vista previa de cámara en vivo",
+        "vista previa dual",
+        "vista previa vertical horizontal",
+        "encuadre de video"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Estabilización con nivelación automática - Dimensions Camera",
+      "description": "Mantén tu video perfectamente nivelado mientras caminas o te mueves. Estabilización giroscópica integrada, sin necesidad de gimbal.",
+      "keywords": [
+        "nivelación automática de video",
+        "estabilización de video",
+        "cámara con giroscopio",
+        "estabilización sin gimbal"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Cámara con seguimiento facial - Dimensions Camera",
+      "description": "El seguimiento facial inteligente te mantiene perfectamente encuadrado tanto en vertical como en horizontal. Seguimiento en ejes X, Y y Z.",
+      "keywords": [
+        "cámara con seguimiento facial",
+        "video con seguimiento de rostro",
+        "encuadre automático de rostro",
+        "cámara para influencers"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Funciones",
+    "contact": "Contacto",
+    "copyright": "Todos los derechos reservados."
+  }
+}

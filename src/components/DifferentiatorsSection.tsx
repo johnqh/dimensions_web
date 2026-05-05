@@ -46,7 +46,7 @@ export default function DifferentiatorsSection() {
 
         {/* 2-column grid */}
         <div className="grid sm:grid-cols-2 gap-8">
-          {differentiators.map((item) => (
+          {differentiators.map(item => (
             <div
               key={item.titleKey}
               className="flex gap-5 p-6 rounded-xl bg-dark-card/50 border border-dark-border/30"
@@ -55,12 +55,8 @@ export default function DifferentiatorsSection() {
                 <item.icon className="w-6 h-6" />
               </div>
               <div>
-                <h3 className="text-lg font-semibold text-white mb-2">
-                  {t(item.titleKey)}
-                </h3>
-                <p className="text-white/60 text-sm leading-relaxed">
-                  {t(item.descriptionKey)}
-                </p>
+                <h3 className="text-lg font-semibold text-white mb-2">{t(item.titleKey)}</h3>
+                <p className="text-white/60 text-sm leading-relaxed">{t(item.descriptionKey)}</p>
               </div>
             </div>
           ))}

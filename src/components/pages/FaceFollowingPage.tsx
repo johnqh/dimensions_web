@@ -20,19 +20,25 @@ export default function FaceFollowingPage() {
           <div className="grid sm:grid-cols-3 gap-6">
             <div className="glass rounded-xl p-6 text-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-[#5A4898]/20 mx-auto mb-4">
-                <span className="text-2xl font-bold text-[#5A4898]">X</span>
+                <span className="text-2xl font-bold text-[#5A4898]">
+                  {t('features.faceFollowing.axes.xLabel')}
+                </span>
               </div>
               <p className="text-white/70 text-sm">{t('features.faceFollowing.axes.x')}</p>
             </div>
             <div className="glass rounded-xl p-6 text-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-accent-cyan/20 mx-auto mb-4">
-                <span className="text-2xl font-bold text-accent-cyan">Y</span>
+                <span className="text-2xl font-bold text-accent-cyan">
+                  {t('features.faceFollowing.axes.yLabel')}
+                </span>
               </div>
               <p className="text-white/70 text-sm">{t('features.faceFollowing.axes.y')}</p>
             </div>
             <div className="glass rounded-xl p-6 text-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-accent-pink/20 mx-auto mb-4">
-                <span className="text-2xl font-bold text-accent-pink">Z</span>
+                <span className="text-2xl font-bold text-accent-pink">
+                  {t('features.faceFollowing.axes.zLabel')}
+                </span>
               </div>
               <p className="text-white/70 text-sm">{t('features.faceFollowing.axes.z')}</p>
             </div>

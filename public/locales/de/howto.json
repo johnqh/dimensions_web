@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "So zeichnen Sie ein Dual-Orientation-Video mit Abmessungen auf",
+    "description": "Beginnen Sie mit der Aufnahme von Porträt- und Querformat-Videos gleichzeitig mit der Dimensions-Kamera-App.",
+    "steps": [
+      {
+        "name": "Rahmen Sie Ihre Aufnahme ein",
+        "text": "Öffnen Sie die Dimensionen und verwenden Sie den kreuzförmigen Sucher, um sowohl Ihre Porträt- als auch Ihre Landschaftsaufnahmen vor der Aufnahme zu gestalten."
+      },
+      {
+        "name": "Einmal aufnehmen",
+        "text": "Schieben zum Aufnehmen. Die Gesichtserkennung hält Sie zentriert und die automatische Ausrichtung hält die Horizontlinie gerade beim Filmen."
+      },
+      {
+        "name": "Hole dir beide Videos",
+        "text": "Beide Versionen, Hochformat (9:16) und Querformat (16:9), werden automatisch in Ihre Fotos exportiert, wenn Sie die Aufnahme beenden."
+      },
+      {
+        "name": "Überall veröffentlichen",
+        "text": "Lade die Hochkantversion auf TikTok und Instagram Reels hoch und die Querformatversion auf YouTube – alles aus einer Aufnahme."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "So zeichnen Sie sowohl Hoch- als auch Querformat-Videos gleichzeitig auf",
+    "description": "Verwenden Sie Abmessungen, um gleichzeitig 9:16-Porträt- und 16:9-Landschaftsvideos aus einer einzigen Aufnahmeaufnahme zu erfassen.",
+    "steps": [
+      {
+        "name": "Offene Dimensionen",
+        "text": "Öffnen Sie die Dimensions-Kamera-App auf Ihrem iPhone. Der kreuzförmige Sucher zeigt sowohl die Hoch- als auch die Querformat-Ausschnitte an."
+      },
+      {
+        "name": "Beide Rahmen zusammensetzen",
+        "text": "Stellen Sie Ihr Motiv so ein, dass es sowohl in den Hochformat-(mittlere Vertikale) als auch in den Querformat-(mittlere Horizontale) Vorschaubildern im Sucher gut aussieht."
+      },
+      {
+        "name": "Schieben zum Aufnehmen",
+        "text": "Ziehen Sie den Aufnahme-Regler, um die Aufnahme zu starten. Dimensions zeichnet ein quadratisches Bild und rendert gleichzeitig 9:16- und 16:9-Ausschnitte in Echtzeit."
+      },
+      {
+        "name": "Beide Videos exportieren",
+        "text": "Stoppen Sie die Aufnahme, und beide Video-Dateien im Portrait- und Querformat werden automatisch in Ihrer Fotos-Bibliothek gespeichert – bereit zum Hochladen auf TikTok, YouTube oder Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "So prüfen Sie beide Videoausrichtungen vor der Aufnahme",
+    "description": "Verwenden Sie den dimensionsorientierten Kreuzhaken-Fokussierer, um genau zu sehen, wie die Hoch- und Querformat-Ausschnitte in Echtzeit aussehen werden.",
+    "steps": [
+      {
+        "name": "Öffne den Sucher",
+        "text": "Launch Dimensions. Der einzigartige kreuzförmige Sucher-Overlay zeigt sowohl Ihre 9:16-Hochformat- als auch Ihre 16:9-Seitenformat-Ausschnitte gleichzeitig an."
+      },
+      {
+        "name": "Passen Sie Ihre Rahmung an",
+        "text": "Bewegen Sie Ihre Kamera, stellen Sie Ihr Motiv neu oder zoomen Sie mit dem Daumen und Zeigefinger. Beide Ausschnittvorschauen werden sofort aktualisiert, sodass Sie den perfekten Bildausschnitt für beide Ausrichtungen erstellen können."
+      },
+      {
+        "name": "Bestätigen Sie Ihre Zusammensetzung",
+        "text": "Stellen Sie sicher, dass Ihr Thema, der Text und wichtige Details sowohl im Hoch- als auch im Querformat sichtbar sind, bevor Sie die Aufnahme beginnen."
+      },
+      {
+        "name": "Mit Vertrauen aufnehmen",
+        "text": "Schieben Sie zum Aufnehmen, um genau zu wissen, wie die beiden Ausgabevideos aussehen werden. Keine Überraschungen in der Post-Produktion."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "So zeichnen Sie ein Level-Video ohne Gimbal auf",
+    "description": "Dimensions verwendet den Gyroskop deines iPhones, um den Horizont in jedem Frame automatisch auszurichten – keine zusätzliche Ausrüstung erforderlich.",
+    "steps": [
+      {
+        "name": "Auto-Nivellierung aktivieren",
+        "text": "Offene Dimensionen. Die automatische Ausrichtung ist eingebaut und standardmäßig aktiv — keine Einstellungen zum Konfigurieren."
+      },
+      {
+        "name": "Halte dein Handy natürlich",
+        "text": "Film mit der Hand, spazieren oder vloggen unterwegs. Du musst dein Handy nicht perfekt gerade halten."
+      },
+      {
+        "name": "Aufnahme Ihres Videos",
+        "text": "Schieben Sie zum Aufnehmen. Die App liest den Gyroskop Ihres Geräts aus und wendet pro-Frames-Gegenrotation an, um den Horizont während des gesamten Aufnahmeprozesses fixiert und ausgerichtet zu halten."
+      },
+      {
+        "name": "Erhalte perfekt geraden Ausgang",
+        "text": "Beim Export in Hoch- und Querformat kommt das Horizontlineal perfekt ausgerichtet – keine Nachbearbeitung notwendig."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Wie man perfekt im Bild bleibt mit Gesichtserkennung",
+    "description": "Dimensions verfolgt Ihr Gesicht über drei Achsen und passt die Bildkomposition automatisch an, um Sie sowohl bei Hoch- als auch bei Querformat-Videos zentriert zu halten.",
+    "steps": [
+      {
+        "name": "Stellen Sie sich selbst",
+        "text": "Öffnen Sie die Dimensionen und richten Sie die Kamera auf sich selbst. Die App erkennt Ihr Gesicht und beginnt automatisch mit der Verfolgung."
+      },
+      {
+        "name": "Frei bewegen",
+        "text": "Gehen, Gestik, Neigen oder Ändern der Höhe. Die Gesichtverfolgung verfolgt Sie reibungslos über die X-Achse (horizontal), Y-Achse (vertikal) und Z-Achse (Zoom)."
+      },
+      {
+        "name": "Lassen Sie die posebewusste Rahmenstellung arbeiten",
+        "text": "Drehen Sie Ihren Kopf, und Dimensions fügt automatisch natürlichen Kopfraum in die Richtung hinzu, in die Sie blicken – so entsteht automatisch ein komponiertes, kinospielendes Framing."
+      },
+      {
+        "name": "Aufnahme ohne Kameramann",
+        "text": "Schieben Sie zum Aufnehmen. Sie bleiben perfekt zentriert in sowohl Hoch- als auch Querformat-Aufnahmen, egal wie sehr Sie sich während der Aufnahme bewegen."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions ist eine kostenlose iOS-Kamera-App, die sowohl Hoch- als auch Querformat-Videos in einer Aufnahme aufnimmt. Perfekt für Content-Ersteller, die auf TikTok, YouTube und Instagram veröffentlichen.",
+    "features": [
+      "Doppelorientierte Aufnahme (Hochformat + Querformat)",
+      "Live-Vorschau des Kreuz-Viewfinders",
+      "Automatische Ebenenkorrektur pro Frame über den Gyroskop",
+      "Dreiaxiges Gesichtsverfolgen mit posebewusster Bildkomposition",
+      "16 kamerabasierte Filmlook",
+      "Sofortige Doppel-Export in Fotos"
+    ]
+  }
+}

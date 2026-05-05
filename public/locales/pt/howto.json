@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "Como gravar vídeo de orientação dual com dimensões",
+    "description": "Comece a gravar vídeos em retrato e paisagem simultaneamente com o aplicativo de câmera Dimensions.",
+    "steps": [
+      {
+        "name": "Enquadre sua foto",
+        "text": "Abra as dimensões abertas e use o visor em forma de cruz para compor suas composições retrato e paisagem antes de gravar."
+      },
+      {
+        "name": "Gravar uma vez",
+        "text": "Deslize para gravar. O rastreamento facial mantém você no centro e o nivelamento automático mantém o horizonte reto enquanto você filma."
+      },
+      {
+        "name": "Pegue os dois vídeos",
+        "text": "As versões retrato (9:16) e paisagem (16:9) são exportadas automaticamente para a sua galeria de fotos quando você para de gravar."
+      },
+      {
+        "name": "Publicar em todo lugar",
+        "text": "Carregue a versão retrato para o TikTok e o Instagram Reels, e a versão paisagem para o YouTube — tudo a partir de uma única gravação."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "Como gravar vídeos em retrato e paisagem ao mesmo tempo",
+    "description": "Use as dimensões para capturar vídeos em retrato 9:16 e paisagem 16:9 simultaneamente em uma única sessão de gravação.",
+    "steps": [
+      {
+        "name": "Dimensões Abertas",
+        "text": "Inicie o aplicativo de câmera Dimensions no seu iPhone. O visor em forma de cruz mostra as regiões de corte em retrato e paisagem."
+      },
+      {
+        "name": "Compor ambos os quadros",
+        "text": "Posicione o seu assunto de forma que ele fique bom tanto na pré-visualização em retrato (vertical central) quanto em paisagem (horizontal central) mostrada no visor."
+      },
+      {
+        "name": "Deslize para gravar",
+        "text": "Arraste o controle deslizante do registro para começar a capturar. As dimensões registram um quadro quadrado e renderizam simultaneamente as versões 9:16 e 16:9 em tempo real."
+      },
+      {
+        "name": "Exportar ambos os vídeos",
+        "text": "Pare de gravar e ambos os arquivos de vídeo em retrato e paisagem são salvos automaticamente na sua biblioteca de Fotos — prontos para enviar para o TikTok, YouTube ou Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "Como visualizar ambas as orientações de vídeo antes de gravar",
+    "description": "Use o visor em forma de cruz das dimensões para ver exatamente como os recortes em retrato e paisagem serão exibidos em tempo real.",
+    "steps": [
+      {
+        "name": "Abra o visor",
+        "text": "Launch Dimensions. O overlay do visor em forma de cruz única mostra simultaneamente as suas regiões de corte em retrato 9:16 e paisagem 16:9."
+      },
+      {
+        "name": "Ajuste sua moldura",
+        "text": "Mova sua câmera, repositione seu assunto ou use o gesto de pinçar para aumentar o zoom. Ambas as visualizações de corte são atualizadas instantaneamente para que você possa compor a foto perfeita para ambas as orientações."
+      },
+      {
+        "name": "Confirme sua composição",
+        "text": "Verifique se o seu assunto, texto e detalhes importantes são visíveis nas regiões retrato e paisagem antes de começar a gravar."
+      },
+      {
+        "name": "Gravar com confiança",
+        "text": "Deslize para gravar, sabendo exatamente como serão os dois vídeos de saída. Sem surpresas na pós-produção."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "Como gravar vídeo de nível sem um giroscópio",
+    "description": "Dimensions utiliza o giroscópio do seu iPhone para manter automaticamente o horizonte nivelado em cada quadro — sem necessidade de equipamento extra.",
+    "steps": [
+      {
+        "name": "Ativar o nivelamento automático",
+        "text": "Dimensões Abertas. O nivelamento automático está integrado e ativado por padrão — sem configurações para ajustar."
+      },
+      {
+        "name": "Segure seu telefone naturalmente",
+        "text": "Filmagem com mão, caminhando ou vlog em movimento. Você não precisa manter o telefone perfeitamente reto."
+      },
+      {
+        "name": "Grave seu vídeo",
+        "text": "Deslize para gravar. O aplicativo lê o giroscópio do seu dispositivo e aplica uma rotação contrária por quadro para manter o horizonte travado e nivelado durante todo o processo."
+      },
+      {
+        "name": "Obtenha uma saída perfeitamente reta",
+        "text": "Ambos os exportações em retrato e paisagem saem com uma linha de horizonte perfeitamente nivelada — nenhuma correção pós-produção necessária."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Como permanecer perfeitamente enquadrado com rastreamento facial",
+    "description": "O Dimensions rastreia seu rosto em três eixos e ajusta automaticamente o enquadramento para mantê-lo centralizado em vídeos em retrato e paisagem.",
+    "steps": [
+      {
+        "name": "Coloque-se",
+        "text": "Abra as dimensões e aponte a câmera para si mesmo. O aplicativo detecta seu rosto e começa a rastrear automaticamente."
+      },
+      {
+        "name": "Mova-se livremente",
+        "text": "Ande, faça gestos, incline-se ou altere a altura. O rastreamento de rosto o acompanha suavemente ao longo dos eixos X (horizontal), Y (vertical) e Z (zoom)."
+      },
+      {
+        "name": "Deixe o enquadramento consciente da postura funcionar",
+        "text": "Gire a cabeça e o Dimensions adiciona espaço de cabeça natural na direção para a qual você está olhando — criando automaticamente enquadramentos compostos e cinematográficos."
+      },
+      {
+        "name": "Gravação sem operador de câmera",
+        "text": "Deslize para gravar. Você permanece perfeitamente centralizado nas saídas em retrato e paisagem, não importa o quão se mova durante a gravação."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions é um aplicativo gratuito para iOS que grava vídeos em retrato e paisagem em uma única gravação. Perfeito para criadores de conteúdo que publicam no TikTok, YouTube e Instagram.",
+    "features": [
+      "Gravação em orientação dual (retrato + paisagem)",
+      "Visualização prévia ao vivo do visor em forma de cruz",
+      "Nivelamento automático por quadro através do giroscópio",
+      "Seguimento de rosto em três eixos com enquadramento consciente da postura",
+      "16 looks de câmera cinematográfica",
+      "Exportação dual instantânea para Fotos"
+    ]
+  }
+}

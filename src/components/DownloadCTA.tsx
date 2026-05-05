@@ -9,10 +9,7 @@ interface DownloadCTAProps {
 export default function DownloadCTA({ className = '', size = 'lg' }: DownloadCTAProps) {
   const { t } = useTranslation();
 
-  const sizeClasses =
-    size === 'lg'
-      ? 'px-8 py-4 text-lg gap-3'
-      : 'px-5 py-2.5 text-sm gap-2';
+  const sizeClasses = size === 'lg' ? 'px-8 py-4 text-lg gap-3' : 'px-5 py-2.5 text-sm gap-2';
 
   const iconSize = size === 'lg' ? 'w-7 h-7' : 'w-5 h-5';
 

@@ -36,12 +36,7 @@ export default function PhoneMockup({
             {variant === 'video' ? (
               <PlayCircleIcon className="w-16 h-16" />
             ) : (
-              <svg
-                className="w-12 h-12"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"

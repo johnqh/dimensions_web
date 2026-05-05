@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Quay Video Dọc & Ngang Cùng Lúc | Ứng Dụng Camera iOS Miễn Phí",
+    "description": "Dimensions là ứng dụng camera iOS miễn phí quay đồng thời video dọc (9:16) và ngang (16:9) chỉ trong một lần quay. Đăng lên TikTok, Instagram và YouTube mà không cần quay hai lần.",
+    "keywords": [
+      "camera quay hai hướng",
+      "video dọc ngang",
+      "quay cả hai hướng",
+      "camera TikTok YouTube",
+      "ứng dụng quay video miễn phí",
+      "ứng dụng camera cho influencer",
+      "quay đồng thời iOS",
+      "camera cho nhà sáng tạo nội dung"
+    ]
+  },
+  "tagline": "Một Lần Quay. Mọi Chiều Không Gian.",
+  "appIntro": "Không cần quay hai lần nữa. Dimensions là ứng dụng camera iOS miễn phí quay đồng thời video dọc và ngang — khung hình hoàn hảo cho TikTok, YouTube và Instagram chỉ trong một lần quay.",
+  "downloadCta": "Tải Miễn Phí trên App Store",
+  "learnMore": "Tìm Hiểu Thêm",
+
+  "problem": {
+    "title": "Bài Toán Đa Nền Tảng",
+    "recordTwice": {
+      "title": "Phải Quay Mọi Thứ Hai Lần",
+      "description": "Bạn quay được cảnh hoàn hảo cho YouTube, rồi lại phải dựng cảnh lại cho TikTok. Bố cục khác, năng lượng khác — và gấp đôi công sức cho mỗi video."
+    },
+    "cropAndHope": {
+      "title": "Cắt Xén và Cầu May",
+      "description": "Hoặc bạn quay một lần rồi cắt xén khi hậu kỳ. Nửa khung hình biến mất, chữ bị cắt, và bố cục bạn dày công sắp đặt tan tành."
+    },
+    "wasteHours": {
+      "title": "Lãng Phí Hàng Giờ Mỗi Tuần",
+      "description": "Nhân lên với mỗi video bạn đăng. Hàng giờ mất đi cho việc quay lại, chỉnh sửa và đổi định dạng — chỉ để duy trì đa nền tảng."
+    },
+    "resolution": "Dimensions giải quyết vấn đề này."
+  },
+
+  "howItWorks": {
+    "title": "Cách Hoạt Động",
+    "frameShot": {
+      "title": "Bố Cục Cảnh Quay",
+      "description": "Khung ngắm hình chữ thập hiển thị trực tiếp vùng cắt dọc và ngang. Sắp xếp cả hai khung hình trước khi bấm quay."
+    },
+    "recordOnce": {
+      "title": "Quay Một Lần",
+      "description": "Vuốt để quay. Tính năng theo dõi khuôn mặt giữ bạn ở giữa, tự động cân bằng giữ đường chân trời thẳng. Chỉ cần tập trung vào nội dung."
+    },
+    "getBothVideos": {
+      "title": "Nhận Cả Hai Video",
+      "description": "Cả hai phiên bản dọc và ngang tự động xuất vào Ảnh. Tải lên bất kỳ nền tảng nào ngay lập tức."
+    }
+  },
+
+  "features": {
+    "title": "Tại Sao Influencer Chọn Dimensions",
+    "dualRecording": {
+      "title": "Quay Hai Hướng Đồng Thời",
+      "subtitle": "Quay một lần, đăng mọi nơi",
+      "description": "Quay một video duy nhất và ngay lập tức nhận cả bản dọc 9:16 và ngang 16:9 — sẵn sàng cho TikTok, YouTube và Instagram mà không cần quay lại hay cắt xén.",
+      "heroTitle": "Quay Một Lần. Đăng Mọi Nơi.",
+      "heroSubtitle": "Một lần quay cho bạn cả video dọc và ngang — sẵn sàng cho mọi nền tảng.",
+      "problem": "Mọi nhà sáng tạo nội dung đều hiểu nỗi khổ này. Bạn quay được cảnh hoàn hảo cho YouTube, rồi nhận ra cần thêm bản dọc cho TikTok và Reels. Thế là phải dựng cảnh lại, chỉnh đèn, cố tái hiện cùng năng lượng — nhưng chẳng bao giờ giống như lần đầu. Tệ hơn, bạn cắt video ngang thành dọc và mất nửa khung hình. Nhân lên với mỗi video bạn đăng, bạn đang lãng phí hàng giờ mỗi tuần chỉ để duy trì đa nền tảng.",
+      "solution": "Dimensions loại bỏ hoàn toàn vấn đề phải quay hai lần. Ứng dụng ghi hình ở định dạng vuông và đồng thời cắt thành cả hai hướng 9:16 dọc và 16:9 ngang theo thời gian thực. Khi bạn dừng quay, cả hai phiên bản đã hoàn tất — khung hình hoàn hảo, đồng bộ hoàn hảo, sẵn sàng tải lên. Bạn chỉ cần quay một lần.",
+      "howItWorks": "Dimensions sử dụng cảm biến camera của iPhone để ghi lại khung hình vuông chứa trọn cả vùng cắt dọc 9:16 và ngang 16:9. Khi quay, ứng dụng xử lý cả hai hướng đồng thời bằng công nghệ xử lý video tăng tốc phần cứng. Kết quả là hai file video riêng biệt, chất lượng cao, được xuất vào thư viện Ảnh ngay khi bạn dừng quay.",
+      "benefits": [
+        "Tiết kiệm hàng giờ mỗi tuần bằng cách loại bỏ các buổi quay lặp lại",
+        "Nhận video dọc và ngang với khung hình hoàn hảo từ mỗi lần quay",
+        "Đăng lên TikTok, Instagram Reels, YouTube và Stories từ một buổi quay",
+        "Không bao giờ bỏ lỡ khoảnh khắc tự nhiên vì đang quay sai hướng"
+      ],
+      "useCases": {
+        "title": "Hoàn Hảo Cho",
+        "youtubeLabel": "YouTube",
+        "youtube": "Xuất video ngang 16:9 chỉn chu trực tiếp lên YouTube. Khung hình rộng đầy đủ, không bị viền đen hay cắt xén lệch.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Nhận video dọc 9:16 cuốn hút cho TikTok và Instagram Reels — từ cùng lần quay bạn dành cho YouTube.",
+        "instagramLabel": "Instagram",
+        "instagram": "Phủ sóng mọi định dạng Instagram: Reels, Stories và bài đăng. Một buổi quay, mọi tỷ lệ khung hình được xử lý."
+      }
+    },
+    "livePreview": {
+      "title": "Xem Trước Trực Tiếp",
+      "subtitle": "Thấy cả hai khung hình trước khi quay",
+      "description": "Khung ngắm hình chữ thập hiển thị vùng cắt dọc và ngang theo thời gian thực. Những gì bạn thấy chính xác là những gì bạn nhận — không đoán mò, không bất ngờ khi hậu kỳ.",
+      "heroTitle": "Bố Cục Cả Hai. Không Bỏ Sót.",
+      "heroSubtitle": "Khung ngắm hình chữ thập hiển thị cả hai vùng cắt trực tiếp — bố cục tự tin.",
+      "problem": "Khi quay ở một hướng, bạn không biết vùng cắt hướng kia sẽ trông như thế nào. Chủ thể có bị cắt mất trong khung dọc không? Các chi tiết quan trọng có nằm ngoài khung ngang không? Bạn chỉ biết khi hậu kỳ — và lúc đó thì khoảnh khắc đã qua. Đoán mò và cầu may không phải là quy trình làm việc.",
+      "solution": "Dimensions cho bạn thấy chính xác cả hai video dọc và ngang sẽ trông như thế nào ngay khi đang quay. Khung xem trước hình chữ thập độc đáo hiển thị cả hai vùng cắt chồng lên nhau theo thời gian thực, giúp bạn điều chỉnh khung hình, đặt vị trí chủ thể và bố cục cảnh quay với sự tự tin tuyệt đối trước khi bấm quay.",
+      "howItWorks": "Khung ngắm trực tiếp hiển thị lớp phủ hình chữ thập đồng thời cho thấy vùng cắt dọc 9:16 và ngang 16:9 trên toàn bộ vùng quay vuông. Khi bạn di chuyển camera, chụm ngón để zoom, hoặc thay đổi vị trí, cả hai bản xem trước cập nhật ngay lập tức. Những gì bạn thấy trên màn hình chính xác là những gì sẽ được xuất ra.",
+      "benefits": [
+        "Bố cục cả hai hướng với sự tự tin tuyệt đối trước và trong khi quay",
+        "Chụm ngón để zoom tinh chỉnh bố cục theo thời gian thực",
+        "Loại bỏ bất ngờ hậu kỳ do cắt xén ngoài ý muốn",
+        "Bố cục một lần — không thử nghiệm, không quay lại"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Tự Động Cân Bằng",
+      "subtitle": "Đường chân trời thẳng, không cần gimbal",
+      "description": "Con quay hồi chuyển của iPhone giữ đường chân trời hoàn hảo từng khung hình — khi bạn đi bộ, vlog, hay quay cầm tay. Ổn định chuyên nghiệp không cần thiết bị phụ.",
+      "heroTitle": "Đi. Chạy. Luôn Cân Bằng.",
+      "heroSubtitle": "Hiệu chỉnh con quay hồi chuyển từng khung hình giữ mọi hình ảnh thẳng — không cần gimbal.",
+      "problem": "Đường chân trời nghiêng khiến nội dung hay cũng trông nghiệp dư. Video quay cầm tay gần như luôn bị lệch, đặc biệt khi bạn đang đi, nói chuyện hay quay di chuyển. Gimbal có giúp ích, nhưng đắt tiền, cồng kềnh, và thêm một thứ phải sạc và mang theo. Ổn định bằng phần mềm trong hậu kỳ có thể sửa độ nghiêng nhưng thường gây méo hình hoặc cắt khung hình thêm nữa.",
+      "solution": "Dimensions sử dụng con quay hồi chuyển tích hợp của iPhone để phát hiện độ nghiêng và tự động hiệu chỉnh theo thời gian thực. Video luôn cân bằng hoàn hảo dù bạn cầm điện thoại thế nào — đi trên đường, leo cầu thang, hay quay ở góc khó. Hoạt động ngay lập tức, không cần thiết lập, không cần thiết bị phụ.",
+      "howItWorks": "Ứng dụng liên tục đọc cảm biến con quay hồi chuyển để đo độ nghiêng xoay. Nó áp dụng phép xoay ngược theo thời gian thực lên khung hình video, giữ đường chân trời cố định và cân bằng trong suốt quá trình quay. Việc hiệu chỉnh diễn ra ở cấp phần cứng trước khi xuất, nên cả video dọc và ngang đều ra thẳng tắp.",
+      "benefits": [
+        "Video cân bằng hoàn hảo mà không cần mang gimbal",
+        "Hoạt động theo thời gian thực — không cần sửa video nghiêng trong hậu kỳ",
+        "Tự tin quay khi đi bộ, di chuyển hay vlog dạo phố",
+        "Kết quả chuyên nghiệp ngay từ iPhone của bạn"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Theo Dõi Khuôn Mặt",
+      "subtitle": "Di chuyển tự do, luôn trong khung hình hoàn hảo",
+      "description": "Theo dõi khuôn mặt ba trục theo chiều ngang, dọc và điều chỉnh zoom — với khung hình thông minh nhận biết tư thế, thêm khoảng trống tự nhiên theo hướng bạn nhìn.",
+      "heroTitle": "Di Chuyển Tự Do. Luôn Trong Khung.",
+      "heroSubtitle": "Theo dõi ba trục với khung hình nhận biết tư thế giữ bạn ở giữa dù di chuyển thế nào.",
+      "problem": "Đặt điện thoại để quay video nói chuyện trước camera và bạn bị khóa cứng một vị trí. Nghiêng người lấy đồ, bước sang bên, hoặc tiến lại gần camera là bạn ra khỏi khung — đặc biệt ở khung dọc hẹp hơn. Cuối cùng phải quay lại hoặc tốn thời gian chỉnh keyframe thủ công trong phần mềm dựng. Với những người sáng tạo quay một mình, giữ mình trong khung hình là cuộc chiến thường xuyên.",
+      "solution": "Dimensions theo dõi khuôn mặt bạn theo thời gian thực trên ba trục — ngang, dọc và zoom — và điều chỉnh mượt mà vùng cắt để giữ bạn luôn ở giữa trong cả hai đầu ra dọc và ngang. Hãy di chuyển tự do, ra hiệu tự nhiên, và để ứng dụng lo việc khung hình. Nó còn thêm khoảng trống theo hướng bạn quay đầu, khiến video trông như được bố cục có chủ đích thay vì theo dõi máy móc.",
+      "howItWorks": "Ứng dụng sử dụng nhận diện khuôn mặt theo thời gian thực để định vị khuôn mặt trong mỗi khung hình. Nó theo dõi đồng thời ba trục: X (ngang) giữ bạn ở giữa khi di chuyển sang hai bên, Y (dọc) theo bạn khi đứng lên, ngồi xuống hoặc thay đổi chiều cao, và Z (zoom) điều chỉnh vùng cắt gần hơn hoặc rộng hơn tùy khoảng cách của bạn với camera. Mọi điều chỉnh được áp dụng mượt mà để tránh chuyển động giật.",
+      "axes": {
+        "title": "Ba Trục Điều Khiển",
+        "xLabel": "X",
+        "x": "Theo dõi ngang đi theo bạn sang trái và phải, giữ khuôn mặt ở giữa khi bạn di chuyển sang hai bên hoặc thay đổi vị trí trong khi quay.",
+        "yLabel": "Y",
+        "y": "Theo dõi dọc điều chỉnh khi bạn đứng lên, ngồi xuống hoặc thay đổi chiều cao — khuôn mặt luôn neo trong khung hình mà không cần chỉnh tay.",
+        "zLabel": "Z",
+        "z": "Theo dõi zoom thu gần vùng cắt khi bạn lùi xa và mở rộng khi bạn tiến lại gần, duy trì khung hình nhất quán ở mọi khoảng cách."
+      },
+      "intelligent": "Dimensions vượt xa việc theo dõi khóa giữa đơn giản. Hệ thống theo dõi thông minh đọc tư thế đầu và thêm khoảng trống bố cục theo hướng bạn đang nhìn. Quay sang trái và khung hình dịch để tạo khoảng thở tự nhiên bên trái. Điều này tạo ra kiểu khung hình có chủ đích, cân đối mà thường cần một người quay camera — tự động, theo thời gian thực, trên cả hai hướng.",
+      "benefits": [
+        "Luôn trong khung hình hoàn hảo mà không cần người quay hay chỉnh chân máy",
+        "Di chuyển tự do khi quay một mình — đi lại, ra hiệu, nghiêng người mà không mất khung",
+        "Khung hình thông minh nhận biết tư thế thêm khoảng trống tự nhiên theo hướng bạn nhìn",
+        "Theo dõi mượt mà trên cả ba trục giữ video trông chuyên nghiệp, không máy móc"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Khác Biệt Hoàn Toàn",
+    "subtitle": "Những tính năng bạn không tìm thấy trong bất kỳ ứng dụng camera nào khác.",
+    "crossViewfinder": {
+      "title": "Khung Ngắm Hình Chữ Thập",
+      "description": "Lớp phủ độc đáo hiển thị đồng thời cả vùng cắt dọc và ngang — không phải nút chuyển đổi, không phải chia đôi màn hình. Bạn thấy chính xác cả hai video sẽ trông thế nào chỉ trong một cái nhìn."
+    },
+    "poseAware": {
+      "title": "Khung Hình Nhận Biết Tư Thế",
+      "description": "Vượt xa theo dõi khóa giữa. Dimensions đọc hướng đầu của bạn và thêm khoảng thở điện ảnh theo hướng bạn nhìn — kiểu khung hình bố cục chỉn chu thường cần một người quay camera."
+    },
+    "perFrameLeveling": {
+      "title": "Cân Bằng Từng Khung Hình",
+      "description": "Không chỉ là ổn định — đây là hiệu chỉnh đường chân trời thực sự từng khung hình bằng con quay hồi chuyển. Mỗi khung hình được nắn thẳng riêng lẻ, nên video luôn cân bằng ngay cả khi chuyển động nhanh."
+    },
+    "qualityFirst": {
+      "title": "Chất Lượng Là Trên Hết",
+      "description": "Quay video thô, không qua bộ lọc để giữ nguyên dải tương phản động. Phong cách camera bạn chọn được áp dụng khi xuất trong một lần xử lý — không có bộ lọc chồng chất làm giảm chất lượng cảnh quay."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "Và Còn Nhiều Hơn Nữa",
+    "cameraLooks": {
+      "title": "16 Phong Cách Camera",
+      "description": "Từ Film Grain đến Teal & Orange, Bleach Bypass đến Noir — chọn phong cách điện ảnh và xem trực tiếp trước khi quay."
+    },
+    "dualExport": {
+      "title": "Xuất Đôi Tức Thì",
+      "description": "Cả hai video dọc và ngang lưu vào Ảnh ngay khi bạn dừng quay. Không hàng đợi render, không phải chờ."
+    },
+    "exposure": {
+      "title": "Vòng Xoay Phơi Sáng Chính Xác",
+      "description": "Tinh chỉnh độ sáng với vòng xoay phơi sáng. Trực quan, chính xác, và luôn trong tầm tay."
+    },
+    "recording": {
+      "title": "Vuốt Để Quay",
+      "description": "Kéo thanh trượt để bắt đầu quay, chạm để chụp ảnh tức thì — ngay cả khi đang quay video. Một nút điều khiển cho mọi thứ."
+    },
+    "tapToFocus": {
+      "title": "Chạm Để Lấy Nét",
+      "description": "Chạm bất kỳ đâu để đặt tiêu điểm và phơi sáng. Chỉ báo trực quan xác nhận khóa để bạn biết chính xác camera đang nhìn vào đâu."
+    },
+    "cameraFlip": {
+      "title": "Camera Trước & Sau",
+      "description": "Chuyển đổi giữa camera trước và sau với hiệu ứng lật mượt mà. Theo dõi khuôn mặt hoạt động trên cả hai."
+    }
+  },
+
+  "free": {
+    "title": "Hoàn Toàn Miễn Phí",
+    "description": "Mọi tính năng. Mọi phong cách camera. Mọi lần xuất. Miễn phí. Một watermark nhỏ xuất hiện trên bản xuất, có thể xóa bằng một lần mua duy nhất — không đăng ký, không giới hạn tính năng.",
+    "watermarkNote": "Watermark nhỏ trên bản xuất miễn phí",
+    "removeWatermark": "Mua một lần để xóa watermark"
+  },
+
+  "loading": "Đang tải...",
+
+  "breadcrumb": {
+    "home": "Trang Chủ"
+  },
+
+  "featurePage": {
+    "backToHome": "Về Trang Chủ",
+    "screenshotPlaceholder": "Ảnh chụp màn hình sắp có",
+    "videoPlaceholder": "Video demo sắp có",
+    "otherFeatures": "Khám Phá Thêm Tính Năng",
+    "problem": "Vấn Đề",
+    "solution": "Giải Pháp",
+    "howItWorks": "Cách Hoạt Động",
+    "benefits": "Lợi Ích"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Quay Hai Hướng Đồng Thời - Dimensions Camera",
+      "description": "Quay một lần, nhận cả video dọc (9:16) và ngang (16:9). Hoàn hảo để đăng lên TikTok và YouTube từ một lần quay.",
+      "keywords": [
+        "quay hai hướng đồng thời",
+        "video dọc ngang",
+        "quay cả hai hướng",
+        "camera TikTok YouTube"
+      ]
+    },
+    "livePreview": {
+      "title": "Xem Trước Trực Tiếp Cả Hai Hướng - Dimensions Camera",
+      "description": "Xem chính xác vùng cắt dọc và ngang trông như thế nào theo thời gian thực. Không bao giờ bỏ lỡ khung hình hoàn hảo.",
+      "keywords": [
+        "xem trước camera trực tiếp",
+        "xem trước hai hướng",
+        "xem trước dọc ngang",
+        "bố cục video"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Tự Động Cân Bằng Ổn Định Video - Dimensions Camera",
+      "description": "Giữ video cân bằng hoàn hảo khi đi bộ hoặc di chuyển. Ổn định bằng con quay hồi chuyển tích hợp, không cần gimbal.",
+      "keywords": [
+        "tự động cân bằng video",
+        "ổn định video",
+        "camera con quay hồi chuyển",
+        "ổn định không cần gimbal"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Camera Theo Dõi Khuôn Mặt - Dimensions Camera",
+      "description": "Theo dõi khuôn mặt thông minh giữ bạn trong khung hình hoàn hảo ở cả video dọc và ngang. Theo dõi trục X, Y và Z.",
+      "keywords": [
+        "camera theo dõi khuôn mặt",
+        "video theo dõi mặt",
+        "tự động khung hình khuôn mặt",
+        "camera cho influencer"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Tính Năng",
+    "contact": "Liên Hệ",
+    "copyright": "Bảo lưu mọi quyền."
+  }
+}

@@ -12,20 +12,21 @@
 
 ## File Map
 
-| File | Action | Responsibility |
-|------|--------|---------------|
-| `public/locales/en/landing.json` | Modify | Add new keys + update existing copy |
-| `src/components/ProblemSection.tsx` | Create | 3-column creator pain points |
-| `src/components/HowItWorksSection.tsx` | Create | 3-step flow visualization |
-| `src/components/DifferentiatorsSection.tsx` | Create | 4 patented differentiators |
-| `src/components/MoreFeatures.tsx` | Modify | Expand 4→6 items, enrich copy |
-| `src/components/pages/HomePage.tsx` | Modify | Wire new sections into page |
+| File                                        | Action | Responsibility                      |
+| ------------------------------------------- | ------ | ----------------------------------- |
+| `public/locales/en/landing.json`            | Modify | Add new keys + update existing copy |
+| `src/components/ProblemSection.tsx`         | Create | 3-column creator pain points        |
+| `src/components/HowItWorksSection.tsx`      | Create | 3-step flow visualization           |
+| `src/components/DifferentiatorsSection.tsx` | Create | 4 patented differentiators          |
+| `src/components/MoreFeatures.tsx`           | Modify | Expand 4→6 items, enrich copy       |
+| `src/components/pages/HomePage.tsx`         | Modify | Wire new sections into page         |
 
 ---
 
 ### Task 1: Update English locale with all new and revised content
 
 **Files:**
+
 - Modify: `public/locales/en/landing.json`
 
 This task adds all new keys and updates existing copy. Every subsequent task depends on these keys existing.
@@ -276,6 +277,7 @@ free section copy."
 ### Task 2: Create ProblemSection component
 
 **Files:**
+
 - Create: `src/components/ProblemSection.tsx`
 
 - [ ] **Step 1: Create `src/components/ProblemSection.tsx`**
@@ -310,36 +312,25 @@ export default function ProblemSection() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
-            {t('problem.title')}
-          </h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">{t('problem.title')}</h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto rounded-full" />
         </div>
 
         {/* 3-column grid */}
         <div className="grid sm:grid-cols-3 gap-8 mb-12">
-          {problems.map((item) => (
-            <div
-              key={item.titleKey}
-              className="glass rounded-2xl p-8 text-center"
-            >
+          {problems.map(item => (
+            <div key={item.titleKey} className="glass rounded-2xl p-8 text-center">
               <div className="w-14 h-14 flex items-center justify-center rounded-xl bg-white/5 text-white/40 mx-auto mb-5">
                 <item.icon className="w-7 h-7" />
               </div>
-              <h3 className="text-lg font-bold text-white mb-3">
-                {t(item.titleKey)}
-              </h3>
-              <p className="text-white/60 text-sm leading-relaxed">
-                {t(item.descriptionKey)}
-              </p>
+              <h3 className="text-lg font-bold text-white mb-3">{t(item.titleKey)}</h3>
+              <p className="text-white/60 text-sm leading-relaxed">{t(item.descriptionKey)}</p>
             </div>
           ))}
         </div>
 
         {/* Resolution */}
-        <p className="text-center text-xl font-semibold gradient-text">
-          {t('problem.resolution')}
-        </p>
+        <p className="text-center text-xl font-semibold gradient-text">{t('problem.resolution')}</p>
       </div>
     </section>
   );
@@ -361,6 +352,7 @@ hope, waste hours) with a resolution line."
 ### Task 3: Create HowItWorksSection component
 
 **Files:**
+
 - Create: `src/components/HowItWorksSection.tsx`
 
 - [ ] **Step 1: Create `src/components/HowItWorksSection.tsx`**
@@ -405,16 +397,14 @@ export default function HowItWorksSection() {
           {/* Connecting line (desktop only) */}
           <div className="hidden sm:block absolute top-8 left-[16.67%] right-[16.67%] h-px bg-white/10" />
 
-          {steps.map((step) => (
+          {steps.map(step => (
             <div key={step.number} className="text-center relative">
               {/* Numbered circle */}
               <div className="w-16 h-16 rounded-full bg-gradient-primary flex items-center justify-center mx-auto mb-6 relative z-10">
                 <span className="text-white text-xl font-bold">{step.number}</span>
               </div>
 
-              <h3 className="text-lg font-bold text-white mb-3">
-                {t(step.titleKey)}
-              </h3>
+              <h3 className="text-lg font-bold text-white mb-3">{t(step.titleKey)}</h3>
               <p className="text-white/60 text-sm leading-relaxed max-w-xs mx-auto">
                 {t(step.descriptionKey)}
               </p>
@@ -442,6 +432,7 @@ and connecting line."
 ### Task 4: Create DifferentiatorsSection component
 
 **Files:**
+
 - Create: `src/components/DifferentiatorsSection.tsx`
 
 - [ ] **Step 1: Create `src/components/DifferentiatorsSection.tsx`**
@@ -495,7 +486,7 @@ export default function DifferentiatorsSection() {
 
         {/* 2-column grid */}
         <div className="grid sm:grid-cols-2 gap-8">
-          {differentiators.map((item) => (
+          {differentiators.map(item => (
             <div
               key={item.titleKey}
               className="flex gap-5 p-6 rounded-xl bg-dark-card/50 border border-dark-border/30"
@@ -504,12 +495,8 @@ export default function DifferentiatorsSection() {
                 <item.icon className="w-6 h-6" />
               </div>
               <div>
-                <h3 className="text-lg font-semibold text-white mb-2">
-                  {t(item.titleKey)}
-                </h3>
-                <p className="text-white/60 text-sm leading-relaxed">
-                  {t(item.descriptionKey)}
-                </p>
+                <h3 className="text-lg font-semibold text-white mb-2">{t(item.titleKey)}</h3>
+                <p className="text-white/60 text-sm leading-relaxed">{t(item.descriptionKey)}</p>
               </div>
             </div>
           ))}
@@ -535,6 +522,7 @@ pose-aware framing, per-frame leveling, quality-first processing."
 ### Task 5: Update MoreFeatures to 6 items
 
 **Files:**
+
 - Modify: `src/components/MoreFeatures.tsx`
 
 - [ ] **Step 1: Edit `src/components/MoreFeatures.tsx`**
@@ -607,6 +595,7 @@ handled via updated locale keys."
 ### Task 6: Wire new sections into HomePage
 
 **Files:**
+
 - Modify: `src/components/pages/HomePage.tsx`
 
 - [ ] **Step 1: Edit `src/components/pages/HomePage.tsx`**
@@ -668,6 +657,7 @@ More Features → Free → CTA"
 Run: `cd /Users/johnhuang/projects/dimensions_web && bun run dev`
 
 Open `http://localhost:4000/en` in browser. Verify:
+
 - Hero shows updated intro copy
 - Problem section renders 3 columns with icons
 - How It Works shows 3 numbered steps with connecting line
@@ -680,6 +670,7 @@ Open `http://localhost:4000/en` in browser. Verify:
 - [ ] **Step 2: Check responsive layout**
 
 Resize browser to mobile width (~375px). Verify:
+
 - Problem section stacks to single column
 - How It Works steps stack vertically
 - Differentiators stack to single column

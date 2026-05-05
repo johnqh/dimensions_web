@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "Làm thế nào để ghi video hai hướng với kích thước",
+    "description": "Bắt đầu quay video chân dung và ngang dọc đồng thời bằng ứng dụng camera Dimensions.",
+    "steps": [
+      {
+        "name": "Khung khung ảnh của bạn",
+        "text": "Mở các chiều và sử dụng kính ngắm hình chữ thập để bố trí cả khung ảnh chân dung và ngang trước khi ghi hình."
+      },
+      {
+        "name": "Ghi âm một lần",
+        "text": "Trượt để ghi hình. Chế độ theo dõi khuôn mặt giúp bạn luôn ở giữa khung hình, và chế độ tự cân bằng giúp đường chân trời luôn thẳng trong khi quay phim."
+      },
+      {
+        "name": "Nhận cả hai video",
+        "text": "Cả phiên bản chân dung (9:16) và bản phim landscape (16:9) đều được xuất tự động vào Thư viện Ảnh của bạn khi bạn dừng quay."
+      },
+      {
+        "name": "Đăng mọi nơi",
+        "text": "Tải phiên bản chân dung lên TikTok và Instagram Reels, và phiên bản phong cảnh lên YouTube — tất cả từ một lần quay duy nhất."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "Làm thế nào để ghi cả video chân dung và ngang cùng một lúc",
+    "description": "Sử dụng Kích thước để ghi lại video chiều dọc 9:16 và chiều ngang 16:9 cùng lúc trong một phiên ghi hình duy nhất.",
+    "steps": [
+      {
+        "name": "Kích thước mở",
+        "text": "Mở ứng dụng camera Dimensions trên iPhone của bạn. Khung hình chữ thập sẽ hiển thị cả vùng cắt dọc và ngang."
+      },
+      {
+        "name": "Soạn cả hai khung",
+        "text": "Đặt chủ thể của bạn sao cho trông tốt cả trong chế độ chân dung (trung tâm theo chiều dọc) và chế độ phong cảnh (trung tâm theo chiều ngang) được hiển thị trong kính ngắm."
+      },
+      {
+        "name": "Trượt để ghi âm",
+        "text": "Kéo thanh trượt bản ghi để bắt đầu ghi hình. Dimensions ghi lại khung hình vuông và đồng thời hiển thị hai định dạng cắt 9:16 và 16:9 theo thời gian thực."
+      },
+      {
+        "name": "Xuất cả hai video",
+        "text": "Dừng ghi hình và cả tệp video chân dung và ngang đều được lưu tự động vào thư viện Ảnh của bạn — sẵn sàng tải lên TikTok, YouTube hoặc Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "Làm thế nào để xem trước cả hai hướng video trước khi ghi lại",
+    "description": "Sử dụng kính ngắm hình chữ thập của Dimensions để xem chính xác cách bố cục chân dung và ngang sẽ trông như thế nào theo thời gian thực.",
+    "steps": [
+      {
+        "name": "Mở máy tìm ảnh",
+        "text": "Kích thước khởi động. Lưới chéo hình chữ thập độc đáo cho thấy cả vùng cắt dọc 9:16 và vùng cắt ngang 16:9 của bạn cùng lúc."
+      },
+      {
+        "name": "Điều chỉnh khung hình của bạn",
+        "text": "Di chuyển máy ảnh, điều chỉnh vị trí chủ thể hoặc dùng thao tác nén để thu phóng. Hai bản xem trước vùng cắt sẽ được cập nhật ngay lập tức để bạn có thể bố cục bức ảnh hoàn hảo cho cả hai hướng."
+      },
+      {
+        "name": "Xác nhận sự kết hợp của bạn",
+        "text": "Kiểm tra xem chủ đề, văn bản và các chi tiết quan trọng có hiển thị rõ ràng trong cả vùng chân dung và vùng ngang trước khi bạn bắt đầu ghi hình."
+      },
+      {
+        "name": "Ghi âm với sự tự tin",
+        "text": "Trượt để ghi âm, biết chính xác hình ảnh hai video đầu ra sẽ như thế nào. Không có bất ngờ nào trong khâu hậu kỳ."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "Làm thế nào để ghi hình video cấp độ mà không cần gimbal",
+    "description": "Dimensions sử dụng con quay hồi chuyển trên iPhone của bạn để tự động giữ cho đường chân trời luôn ngang trong mọi khung hình — không cần thêm thiết bị nào khác.",
+    "steps": [
+      {
+        "name": "Bật điều chỉnh tự động",
+        "text": "Mở các chiều. Tự động cân bằng đã được tích hợp và hoạt động mặc định — không cần cấu hình cài đặt."
+      },
+      {
+        "name": "Nắm điện thoại một cách tự nhiên",
+        "text": "Phim quay bằng tay, đi bộ quay phim, hoặc quay vlog khi di chuyển. Bạn không cần phải giữ điện thoại hoàn toàn thẳng."
+      },
+      {
+        "name": "Ghi lại video của bạn",
+        "text": "Trượt để ghi âm. Ứng dụng đọc cảm biến gia tốc của thiết bị bạn và áp dụng độ xoay ngược theo từng khung hình để giữ cho đường chân trời luôn được giữ cố định và thăng bằng suốt quá trình."
+      },
+      {
+        "name": "Nhận đầu ra thẳng hoàn hảo",
+        "text": "Cả xuất bản dạng chân dung và dạng phong cảnh đều có đường chân trời hoàn toàn bằng phẳng — không cần chỉnh sửa sau sản xuất."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Làm thế nào để luôn được khung hình hoàn hảo với tính năng theo dõi khuôn mặt",
+    "description": "Dimensions theo dõi khuôn mặt bạn theo ba trục và tự động điều chỉnh khung hình để giữ bạn ở trung tâm trong cả video đứng và nằm.",
+    "steps": [
+      {
+        "name": "Đặt vị trí của bạn",
+        "text": "Mở Dimensions và hướng máy ảnh về phía bạn. Ứng dụng sẽ phát hiện khuôn mặt của bạn và bắt đầu theo dõi tự động."
+      },
+      {
+        "name": "Di chuyển tự do",
+        "text": "Đi bộ, cử chỉ, nghiêng hoặc thay đổi chiều cao. Theo dõi mặt theo bạn dọc theo các trục X (ngang), Y (dọc) và Z (phóng to) một cách mượt mà."
+      },
+      {
+        "name": "Hãy để Khung Nhìn Nhận Dạng Vị Trí hoạt động",
+        "text": "Xoay đầu của bạn và Dimensions sẽ thêm chiều cao tự nhiên theo hướng bạn đang nhìn — tạo ra khung hình được bố trí một cách điềm đạm, điện ảnh một cách tự động."
+      },
+      {
+        "name": "Ghi âm mà không có người quay phim",
+        "text": "Trượt để ghi âm. Bạn luôn được căn giữa hoàn hảo trong cả đầu ra dọc và ngang, bất kể bạn di chuyển bao nhiêu trong quá trình quay."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions là một ứng dụng camera miễn phí cho iOS, ghi lại video theo cả chiều dọc và chiều ngang từ một lần quay duy nhất. Lý tưởng cho những người sáng tạo nội dung đăng lên TikTok, YouTube và Instagram.",
+    "features": [
+      "Ghi âm định hướng kép (dọc + ngang)",
+      "Xem trước khung ngắm hình chữ thập",
+      "Tự động cân bằng khung hình qua cảm biến gyroscope",
+      "Theo dõi khuôn mặt ba trục với khung hình nhận biết tư thế",
+      "16 phong cách máy quay điện ảnh",
+      "Xuất song song tức thì sang Photos"
+    ]
+  }
+}

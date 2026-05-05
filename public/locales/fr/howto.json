@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "Comment enregistrer une vidéo à double orientation avec des dimensions",
+    "description": "Commencez à enregistrer des vidéos en portrait et en paysage simultanément avec l'application camera Dimensions.",
+    "steps": [
+      {
+        "name": "Cadrez votre prise",
+        "text": "Ouvrez les dimensions et utilisez le viseur en forme de croix pour composer vos cadrages portrait et paysage avant d'enregistrer."
+      },
+      {
+        "name": "Enregistrer une fois",
+        "text": "Glissez pour enregistrer. Le suivi facial vous maintient centré et le nivellement automatique garde l'horizon droit pendant le tournage."
+      },
+      {
+        "name": "Obtiens les deux vidéos",
+        "text": "Les versions portrait (9:16) et paysage (16:9) sont exportées automatiquement dans vos Photos lorsque vous arrêtez la capture."
+      },
+      {
+        "name": "Publier partout",
+        "text": "Téléchargez la version portrait sur TikTok et Instagram Reels, et la version paysage sur YouTube, tout cela à partir d'un seul prélèvement."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "Comment enregistrer à la fois des vidéos en portrait et en paysage",
+    "description": "Utilisez les dimensions pour capturer simultanément des vidéos au format portrait 9:16 et paysage 16:9 lors d'une seule session d'enregistrement.",
+    "steps": [
+      {
+        "name": "Dimensions ouvertes",
+        "text": "Lancez l'application camera Dimensions sur votre iPhone. Le viseur en forme de croix affiche les régions de découpe en portrait et en paysage."
+      },
+      {
+        "name": "Composer les deux cadres",
+        "text": "Placez votre sujet de manière à ce qu'il ait bonne allure dans les aperçus en portrait (centré verticalement) et en paysage (centré horizontalement) affichés dans le viseur."
+      },
+      {
+        "name": "Glissez pour enregistrer",
+        "text": "Faites glisser le curseur de l'enregistrement pour commencer à capturer. Dimensions enregistre un cadre carré et affiche simultanément les versions 9:16 et 16:9 en temps réel."
+      },
+      {
+        "name": "Exporter les deux vidéos",
+        "text": "Arrêtez l'enregistrement et les fichiers vidéo en portrait et en paysage sont enregistrés automatiquement dans votre bibliothèque Photos — prêts à être téléchargés sur TikTok, YouTube ou Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "Comment prévisualiser les deux orientations vidéo avant l'enregistrement",
+    "description": "Utilisez le viseur en forme de croix des dimensions pour voir exactement à quoi ressembleront les recadrages en portrait et en paysage en temps réel.",
+    "steps": [
+      {
+        "name": "Ouvre le viseur",
+        "text": "Dimensions de lancement. Le superposé du viseur en forme de croix unique affiche simultanément vos zones de recadrage en portrait 9:16 et en paysage 16:9."
+      },
+      {
+        "name": "Ajustez votre encadrement",
+        "text": "Déplacez votre appareil photo, repositionnez votre sujet ou faites un geste de zoom avec deux doigts. Les deux aperçus de recadrage se mettent à jour instantanément afin que vous puissiez composer la meilleure prise de vue pour les deux orientations."
+      },
+      {
+        "name": "Confirmez votre composition",
+        "text": "Vérifiez que votre sujet, le texte et les informations importantes sont visibles dans les deux régions portrait et paysage avant de commencer l'enregistrement."
+      },
+      {
+        "name": "Enregistrer avec confiance",
+        "text": "Faites glisser pour enregistrer, en sachant exactement à quoi ressembleront les deux vidéos de sortie. Aucune surprise en post-production."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "Comment enregistrer une vidéo de niveau sans un stabilisateur",
+    "description": "Dimensions utilise le gyroscope de votre iPhone pour maintenir automatiquement l'horizon à l'horizontale dans chaque image – aucun équipement supplémentaire nécessaire.",
+    "steps": [
+      {
+        "name": "Activer le nivellement automatique",
+        "text": "Dimensions ouvertes. Le nivellement automatique est intégré et activé par défaut – aucun paramètre à configurer."
+      },
+      {
+        "name": "Tenez votre téléphone naturellement",
+        "text": "Filmé à la main, en marchant ou en vlog en déplacement. Vous n'avez pas besoin de garder votre téléphone parfaitement droit."
+      },
+      {
+        "name": "Enregistrez votre vidéo",
+        "text": "Glissez pour enregistrer. L'application lit le gyroscope de votre appareil et applique une rotation inverse par image pour maintenir l'horizon verrouillé et horizontal tout au long."
+      },
+      {
+        "name": "Obtenez une sortie parfaitement droite",
+        "text": "Les exportations en portrait et en paysage sortent toutes deux avec un horizon parfaitement plat, sans correction en post-production nécessaire."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Comment rester parfaitement cadré avec le suivi facial",
+    "description": "Dimensions suit votre visage sur trois axes et ajuste automatiquement le cadrage pour vous maintenir centré, que ce soit en vidéo portrait ou paysage.",
+    "steps": [
+      {
+        "name": "Placez-vous",
+        "text": "Ouvrez les dimensions et pointez la caméra vers vous. L'application détecte votre visage et commence automatiquement le suivi."
+      },
+      {
+        "name": "Bougez librement",
+        "text": "Marchez, faites des gestes, penchez-vous ou changez de hauteur. Le suivi de la face vous suit doucement le long des axes X (horizontal), Y (vertical) et Z (zoom)."
+      },
+      {
+        "name": "Laissez le cadre conscient de la posture agir",
+        "text": "Tournez votre tête et Dimensions ajoute automatiquement de l'espace libre naturel dans la direction vers laquelle vous regardez, créant ainsi une mise en scène composée et cinématographique."
+      },
+      {
+        "name": "Enregistrement sans opérateur de caméra",
+        "text": "Glissez pour enregistrer. Vous restez parfaitement centré dans les sorties en portrait et paysage, peu importe la quantité de mouvement pendant la prise."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions est une application gratuite pour iPhone qui enregistre des vidéos en portrait et en paysage à partir d'une seule prise. Parfaite pour les créateurs de contenu qui publient sur TikTok, YouTube et Instagram.",
+    "features": [
+      "Enregistrement en double orientation (portrait + paysage)",
+      "Aperçu en direct du viseur en forme de croix",
+      "Équilibrage automatique par trame grâce au gyroscope",
+      "Suivi facial à trois axes avec cadrage conscient de la posture",
+      "16 looks de caméra cinématographique",
+      "Exportation instantanée double vers Photos"
+    ]
+  }
+}

@@ -124,7 +124,9 @@ export default function FeaturePageLayout({
               <PhoneMockup variant="video" />
             </div>
             <div className="order-1 lg:order-2 text-center lg:text-left">
-              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">{t('featurePage.solution')}</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">
+                {t('featurePage.solution')}
+              </h2>
               <p className="text-white/70 text-lg leading-relaxed">
                 {t(`features.${featureKey}.solution`)}
               </p>
@@ -136,7 +138,9 @@ export default function FeaturePageLayout({
       {/* How It Works Section */}
       <section className="py-20 bg-dark-card/30">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">{t('featurePage.howItWorks')}</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">
+            {t('featurePage.howItWorks')}
+          </h2>
           <p className="text-white/70 text-lg leading-relaxed">
             {t(`features.${featureKey}.howItWorks`)}
           </p>
@@ -149,7 +153,9 @@ export default function FeaturePageLayout({
       {/* Benefits Section */}
       <section className="py-20">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-10 text-center">{t('featurePage.benefits')}</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-10 text-center">
+            {t('featurePage.benefits')}
+          </h2>
           <ul className="space-y-4">
             {Array.isArray(benefits) &&
               benefits.map((benefit, index) => (

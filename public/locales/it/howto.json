@@ -1,0 +1,123 @@
+{
+  "home": {
+    "name": "Come registrare un video con doppia orientazione e dimensioni",
+    "description": "Inizia a registrare video in ritratto e in paesaggio contemporaneamente con l'app camera Dimensions.",
+    "steps": [
+      {
+        "name": "Inquadra la tua immagine",
+        "text": "Apri le dimensioni e utilizza il mirino a forma di croce per comporre sia il ritratto che il ritaglio orizzontale prima della registrazione."
+      },
+      {
+        "name": "Registra una volta",
+        "text": "Scorri per registrare. Il follow della faccia ti mantiene al centro e l'auto livellamento mantiene l'orizzonte dritto mentre registri."
+      },
+      {
+        "name": "Prendi entrambi i video",
+        "text": "Entrambe le versioni ritratto (9:16) e paesaggio (16:9) vengono esportate automaticamente nella tua libreria Foto quando interrompi la registrazione."
+      },
+      {
+        "name": "Pubblica ovunque",
+        "text": "Carica la versione ritratto su TikTok e Instagram Reels, e la versione paesaggio su YouTube - tutto da un'unica presa."
+      }
+    ]
+  },
+  "dualRecording": {
+    "name": "Come registrare video in ritratto e in orizzontale contemporaneamente",
+    "description": "Utilizza le dimensioni per acquisire video in formato ritratto 9:16 e in formato paesaggio 16:9 contemporaneamente da una singola sessione di registrazione.",
+    "steps": [
+      {
+        "name": "Dimensioni aperte",
+        "text": "Avvia l'app della fotocamera Dimensions sul tuo iPhone. Il mirino a forma di croce mostra le regioni di ritaglio in ritratto e in orizzontale."
+      },
+      {
+        "name": "Componi entrambi i riquadri",
+        "text": "Posiziona il soggetto in modo che sia gradevole sia nella visualizzazione verticale (centrata in altezza) che in quella orizzontale (centrata in larghezza) mostrate nel mirino."
+      },
+      {
+        "name": "Scorri per registrare",
+        "text": "Trascina il cursore del record per iniziare la registrazione. Dimensions registra un quadro quadrato e visualizza simultaneamente le versioni 9:16 e 16:9 in tempo reale."
+      },
+      {
+        "name": "Esporta entrambi i video",
+        "text": "Interrompi la registrazione e entrambi i file video in formato ritratto e paesaggio vengono salvati automaticamente nella tua libreria Foto — pronti per essere caricati su TikTok, YouTube o Instagram."
+      }
+    ]
+  },
+  "livePreview": {
+    "name": "Come visualizzare entrambe le orientazioni video prima della registrazione",
+    "description": "Utilizza il mirino a forma di croce delle dimensioni per vedere in tempo reale esattamente come appariranno i ritagli in ritratto e in orizzontale.",
+    "steps": [
+      {
+        "name": "Apri il mirino",
+        "text": "Dimensioni di lancio. Il layout dell'obiettivo a croce unica mostra contemporaneamente le regioni di ritaglio in ritratto 9:16 e in paesaggio 16:9."
+      },
+      {
+        "name": "Regola il tuo inquadrato",
+        "text": "Sposta la tua fotocamera, riposiziona il soggetto o utilizza il gesto di zoom con due dita. Entrambi i preview del ritaglio si aggiornano istantaneamente in modo da poter comporre la fotografia perfetta per entrambe le orientazioni."
+      },
+      {
+        "name": "Conferma la tua composizione",
+        "text": "Verifica che il soggetto, il testo e i dettagli importanti siano visibili sia nella regione ritratto che in quella paesaggio prima di iniziare la registrazione."
+      },
+      {
+        "name": "Registra con fiducia",
+        "text": "Scorri per registrare, sapendo esattamente come saranno entrambi i video di output. Nessuna sorpresa in post-produzione."
+      }
+    ]
+  },
+  "autoLeveling": {
+    "name": "Come registrare un video di livello senza un gimbal",
+    "description": "Dimensions utilizza il giroscopio del tuo iPhone per mantenere automaticamente l'orizzonte livellato in ogni fotogramma, senza bisogno di attrezzature aggiuntive.",
+    "steps": [
+      {
+        "name": "Abilita il livellamento automatico",
+        "text": "Dimensioni aperte. Il livellamento automatico è integrato e attivo per impostazione predefinita — nessuna impostazione da configurare."
+      },
+      {
+        "name": "Tieni il telefono in modo naturale",
+        "text": "Film in modalità handheld, camminando o vlog in movimento. Non è necessario tenere il telefono perfettamente dritto."
+      },
+      {
+        "name": "Registra il tuo video",
+        "text": "Scorri per registrare. L'app legge il giroscopio del dispositivo e applica una rotazione contraria per frame per mantenere l'orizzonte bloccato e livellato durante tutta la registrazione."
+      },
+      {
+        "name": "Ottieni un output perfettamente dritto",
+        "text": "Sia l'esportazione in ritratto che in paesaggio produce un orizzonte perfettamente livellato - non è necessaria alcuna correzione in post-produzione."
+      }
+    ]
+  },
+  "faceFollowing": {
+    "name": "Come rimanere perfettamente inquadrati con il rilevamento facciale",
+    "description": "Dimensions traccia il tuo volto su tre assi e regola automaticamente il quadro per mantenerti al centro sia nei video in ritratto che in orizzontale.",
+    "steps": [
+      {
+        "name": "Posizionati",
+        "text": "Apri le dimensioni e punta la fotocamera verso di te. L'app rileva il tuo volto e inizia automaticamente il tracciamento."
+      },
+      {
+        "name": "Muoviti liberamente",
+        "text": "Cammina, gestisci, inclina o modifica l'altezza. Il follow del viso ti traccia in modo fluido sugli assi X (orizzontale), Y (verticale) e Z (zoom)."
+      },
+      {
+        "name": "Lascia che il quadro consapevole della posa lavori",
+        "text": "Ruota la testa e Dimensions aggiunge spazio per la testa in modo naturale nella direzione in cui stai guardando, creando automaticamente un inquadratura composta e cinematografica."
+      },
+      {
+        "name": "Registrazione senza operatore di telecamera",
+        "text": "Scorri per registrare. Rimani perfettamente centrato sia nelle immagini in ritratto che in orizzontale, indipendentemente da quanto ti muovi durante la registrazione."
+      }
+    ]
+  },
+  "webApp": {
+    "description": "Dimensions è un'app gratuita per iOS che registra video in formato ritratto e paesaggio da un'unica presa. Perfetta per creatori di contenuti che pubblicano su TikTok, YouTube e Instagram.",
+    "features": [
+      "Registrazione in doppia orientazione (ritratto + paesaggio)",
+      "Anteprima in tempo reale del mirino a croce",
+      "Livellazione automatica per fotogramma tramite giroscopio",
+      "Seguimento facciale a tre assi con inquadratura consapevole della postura",
+      "16 look cinematografici della telecamera",
+      "Esportazione doppia istantanea in Foto"
+    ]
+  }
+}

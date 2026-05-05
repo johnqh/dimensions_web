@@ -81,9 +81,10 @@ const DarkThemeProvider = ({ children }: { children: React.ReactNode }) => (
 
 // Loading fallback
 function LoadingFallback() {
+  const { t } = useTranslation();
   return (
     <div className="min-h-screen bg-theme-bg-primary flex items-center justify-center">
-      <div className="animate-pulse text-theme-text-tertiary">Loading...</div>
+      <div className="animate-pulse text-theme-text-tertiary">{t('loading', 'Loading...')}</div>
     </div>
   );
 }

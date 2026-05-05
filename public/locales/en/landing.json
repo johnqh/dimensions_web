@@ -70,8 +70,11 @@
       ],
       "useCases": {
         "title": "Perfect For",
+        "youtubeLabel": "YouTube",
         "youtube": "Export polished 16:9 landscape videos directly to YouTube. Full widescreen framing with no letterboxing or awkward crops.",
+        "tiktokLabel": "TikTok",
         "tiktok": "Get scroll-stopping 9:16 vertical video for TikTok and Instagram Reels — from the same take you shot for YouTube.",
+        "instagramLabel": "Instagram",
         "instagram": "Cover every Instagram format: Reels, Stories, and feed posts. One recording session, every aspect ratio handled."
       }
     },
@@ -118,8 +121,11 @@
       "howItWorks": "The app uses real-time face detection to locate your face in every frame. It tracks three axes simultaneously: X (horizontal) keeps you centered as you move side to side, Y (vertical) follows you as you stand, sit, or change height, and Z (zoom) adjusts the crop tighter or wider based on your distance from the camera. All adjustments are applied smoothly to avoid jarring motion.",
       "axes": {
         "title": "Three Axes of Control",
+        "xLabel": "X",
         "x": "Horizontal tracking follows you left and right, keeping your face centered as you move side to side or shift your position during a take.",
+        "yLabel": "Y",
         "y": "Vertical tracking adjusts as you stand up, sit down, or change height — your face stays anchored in the frame without manual repositioning.",
+        "zLabel": "Z",
         "z": "Zoom tracking moves the crop tighter when you step back and wider when you step forward, maintaining consistent framing at any distance."
       },
       "intelligent": "Dimensions goes beyond simple center-lock tracking. Its intelligent following system reads your head pose and adds compositional headroom in the direction you are looking. Turn to the left and the frame shifts to give you natural breathing room on the left side. This creates the kind of purposeful, balanced framing that usually requires a camera operator — automatically, in real time, on both orientations.",
@@ -187,6 +193,8 @@
     "watermarkNote": "Tiny watermark on free exports",
     "removeWatermark": "One-time purchase to remove"
   },
+
+  "loading": "Loading...",
 
   "breadcrumb": {
     "home": "Home"

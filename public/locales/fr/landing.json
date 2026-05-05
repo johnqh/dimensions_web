@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Enregistrez des vidéos portrait et paysage simultanément | Caméra iOS gratuite",
+    "description": "Dimensions est une application caméra iOS gratuite qui enregistre simultanément des vidéos portrait (9:16) et paysage (16:9) en une seule prise. Publiez sur TikTok, Instagram et YouTube sans filmer deux fois.",
+    "keywords": [
+      "caméra double orientation",
+      "vidéo portrait paysage",
+      "enregistrer les deux orientations",
+      "caméra TikTok YouTube",
+      "application vidéo gratuite",
+      "application caméra influenceur",
+      "double enregistrement iOS",
+      "caméra créateur de contenu"
+    ]
+  },
+  "tagline": "Une prise. Toutes les Dimensions.",
+  "appIntro": "Arrêtez de filmer deux fois. Dimensions est la caméra iOS gratuite qui capture simultanément des vidéos portrait et paysage — parfaitement cadrées pour TikTok, YouTube et Instagram en une seule prise.",
+  "downloadCta": "Télécharger gratuitement sur l'App Store",
+  "learnMore": "En savoir plus",
+
+  "problem": {
+    "title": "Le dilemme multi-plateforme",
+    "recordTwice": {
+      "title": "Tout filmer deux fois",
+      "description": "Vous réussissez la prise parfaite pour YouTube, puis vous recommencez pour TikTok. Un cadrage différent, une énergie différente — et le double de travail pour chaque vidéo."
+    },
+    "cropAndHope": {
+      "title": "Recadrer et espérer",
+      "description": "Ou vous filmez une fois et recadrez en post-production. La moitié de votre image disparaît, le texte est coupé, et votre plan soigneusement composé s'effondre."
+    },
+    "wasteHours": {
+      "title": "Des heures perdues chaque semaine",
+      "description": "Multipliez cela par chaque vidéo que vous publiez. Des heures perdues en tournages en double, remontages et reformatages — juste pour rester multi-plateforme."
+    },
+    "resolution": "Dimensions résout ce problème."
+  },
+
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "frameShot": {
+      "title": "Cadrez votre plan",
+      "description": "Le viseur en forme de croix affiche vos recadrages portrait et paysage en direct. Composez les deux images avant d'appuyer sur enregistrer."
+    },
+    "recordOnce": {
+      "title": "Filmez une seule fois",
+      "description": "Glissez pour enregistrer. Le suivi du visage vous garde centré, le nivellement automatique maintient l'horizon droit. Concentrez-vous uniquement sur votre contenu."
+    },
+    "getBothVideos": {
+      "title": "Obtenez les deux vidéos",
+      "description": "Les versions portrait et paysage s'exportent automatiquement dans vos Photos. Publiez sur n'importe quelle plateforme instantanément."
+    }
+  },
+
+  "features": {
+    "title": "Pourquoi les influenceurs choisissent Dimensions",
+    "dualRecording": {
+      "title": "Enregistrement double orientation",
+      "subtitle": "Filmez une fois, publiez partout",
+      "description": "Enregistrez une seule vidéo et obtenez instantanément le portrait 9:16 et le paysage 16:9 — prêts pour TikTok, YouTube et Instagram sans re-filmer ni recadrer.",
+      "heroTitle": "Filmez une fois. Publiez partout.",
+      "heroSubtitle": "Une seule prise vous donne le portrait et le paysage — prêts pour chaque plateforme.",
+      "problem": "Chaque créateur de contenu connaît cette frustration. Vous réussissez la prise parfaite pour YouTube, puis vous réalisez qu'il vous faut une version verticale pour TikTok et les Reels. Alors vous recommencez, refaites l'éclairage, essayez de retrouver la même énergie — et ce n'est jamais pareil. Ou pire, vous recadrez la vidéo paysage en portrait et perdez la moitié de l'image. Multipliez cela par chaque vidéo que vous publiez, et vous perdez des heures chaque semaine juste pour rester multi-plateforme.",
+      "solution": "Dimensions élimine complètement le problème de la double prise. L'application capture votre vidéo au format carré et la recadre simultanément en portrait 9:16 et en paysage 16:9 en temps réel. Quand vous arrêtez l'enregistrement, les deux versions sont déjà prêtes — parfaitement cadrées, parfaitement synchronisées, et prêtes à être mises en ligne. Une seule prise suffit.",
+      "howItWorks": "Dimensions utilise le capteur photo de votre iPhone pour capturer une image carrée qui contient entièrement un recadrage portrait 9:16 et un recadrage paysage 16:9. Pendant l'enregistrement, l'application rend les deux orientations simultanément grâce au traitement vidéo accéléré par le matériel. Le résultat : deux fichiers vidéo distincts de haute qualité exportés dans votre photothèque dès la fin de l'enregistrement.",
+      "benefits": [
+        "Gagnez des heures chaque semaine en éliminant les sessions d'enregistrement en double",
+        "Obtenez des vidéos portrait et paysage parfaitement cadrées à chaque prise",
+        "Publiez sur TikTok, Instagram Reels, YouTube et les Stories depuis un seul tournage",
+        "Ne ratez plus jamais un moment spontané parce que vous filmiez dans la mauvaise orientation"
+      ],
+      "useCases": {
+        "title": "Idéal pour",
+        "youtubeLabel": "YouTube",
+        "youtube": "Exportez des vidéos paysage 16:9 soignées directement vers YouTube. Un cadrage plein écran sans bandes noires ni recadrages maladroits.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Obtenez des vidéos verticales 9:16 captivantes pour TikTok et Instagram Reels — à partir de la même prise que pour YouTube.",
+        "instagramLabel": "Instagram",
+        "instagram": "Couvrez tous les formats Instagram : Reels, Stories et publications dans le fil. Une seule session d'enregistrement, tous les formats gérés."
+      }
+    },
+    "livePreview": {
+      "title": "Aperçu en direct",
+      "subtitle": "Visualisez les deux cadres avant de filmer",
+      "description": "Le viseur en forme de croix superpose vos recadrages portrait et paysage en temps réel. Ce que vous voyez est exactement ce que vous obtenez — sans devinettes, sans surprises en post-production.",
+      "heroTitle": "Cadrez les deux. Ne ratez rien.",
+      "heroSubtitle": "Le viseur en forme de croix affiche les deux recadrages en direct — composez en toute confiance.",
+      "problem": "Quand vous filmez dans une orientation, vous n'avez aucune idée du rendu de l'autre recadrage. Votre sujet sera-t-il coupé en portrait ? Des détails importants sortiront-ils du cadre paysage ? Vous ne le découvrez qu'en post-production — et à ce moment-là, l'instant est passé. Deviner et espérer n'est pas une méthode de travail.",
+      "solution": "Dimensions vous montre exactement à quoi ressembleront vos vidéos portrait et paysage pendant que vous filmez encore. L'aperçu unique en forme de croix affiche les deux recadrages superposés en temps réel, pour que vous puissiez ajuster votre cadrage, positionner votre sujet et composer le plan en toute confiance avant d'appuyer sur enregistrer.",
+      "howItWorks": "Le viseur en direct affiche une superposition en forme de croix qui montre simultanément les zones de recadrage portrait 9:16 et paysage 16:9 par-dessus la zone de capture carrée complète. Lorsque vous bougez la caméra, pincez pour zoomer ou repositionnez, les deux aperçus de recadrage se mettent à jour instantanément. Ce que vous voyez à l'écran est exactement ce qui sera exporté.",
+      "benefits": [
+        "Cadrez les deux orientations en toute confiance avant et pendant l'enregistrement",
+        "Pincez pour zoomer afin d'affiner votre composition en temps réel",
+        "Éliminez les surprises de post-production liées aux recadrages inattendus",
+        "Composez une seule fois — sans tâtonnement, sans reprises"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Nivellement automatique",
+      "subtitle": "Horizon stable, sans cardan nécessaire",
+      "description": "Le gyroscope de votre iPhone maintient l'horizon parfaitement droit image par image — que vous marchiez, vlogguiez ou filmiez à main levée. Une stabilité professionnelle sans équipement supplémentaire.",
+      "heroTitle": "Marchez. Courez. Restez droit.",
+      "heroSubtitle": "La correction gyroscopique image par image garde chaque plan droit — sans cardan nécessaire.",
+      "problem": "Les horizons penchés donnent un aspect amateur même au meilleur contenu. Les images tournées à main levée dévient presque toujours du niveau, surtout quand vous marchez, parlez ou filmez en mouvement. Les cardans aident, mais ils sont chers, encombrants, et un appareil de plus à charger et transporter. La stabilisation logicielle en post-production peut corriger l'inclinaison mais introduit souvent des déformations ou réduit encore plus votre cadre.",
+      "solution": "Dimensions utilise le gyroscope intégré de votre iPhone pour détecter l'inclinaison et la corriger automatiquement en temps réel. Votre vidéo reste parfaitement droite peu importe comment vous tenez votre téléphone — en marchant dans la rue, en montant des escaliers ou en filmant depuis un angle difficile. Cela fonctionne instantanément sans configuration et sans équipement supplémentaire.",
+      "howItWorks": "L'application lit en continu le capteur gyroscopique de votre appareil pour mesurer l'inclinaison rotationnelle. Elle applique une contre-rotation en temps réel à l'image vidéo, maintenant l'horizon verrouillé et droit pendant tout l'enregistrement. Cette correction s'effectue au niveau matériel avant l'export, de sorte que vos vidéos portrait et paysage sortent parfaitement droites.",
+      "benefits": [
+        "Vidéo parfaitement droite sans transporter de cardan",
+        "Fonctionne en temps réel — plus besoin de corriger les plans penchés en post-production",
+        "Filmez en toute confiance en marchant, en bougeant ou en vloguant en déplacement",
+        "Des résultats professionnels directement depuis votre iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Suivi du visage",
+      "subtitle": "Bougez librement, restez parfaitement cadré",
+      "description": "Le suivi du visage sur trois axes vous suit horizontalement, verticalement et ajuste le zoom — avec un cadrage intelligent qui ajoute un espace naturel dans la direction où vous regardez.",
+      "heroTitle": "Bougez librement. Restez cadré.",
+      "heroSubtitle": "Le suivi sur trois axes avec cadrage intelligent vous garde centré quel que soit votre mouvement.",
+      "problem": "Posez votre téléphone pour filmer une vidéo face caméra et vous êtes bloqué dans une seule position. Penchez-vous pour attraper quelque chose, faites un pas de côté ou approchez-vous de la caméra et vous sortez du cadre — surtout dans le recadrage portrait plus serré. Vous finissez par re-filmer ou passer du temps à ajuster manuellement les images clés dans votre éditeur. Pour les créateurs qui filment seuls, rester dans le cadre est un combat permanent.",
+      "solution": "Dimensions suit votre visage en temps réel sur trois axes — horizontal, vertical et zoom — et ajuste en douceur le recadrage pour vous garder parfaitement centré dans les sorties portrait et paysage. Bougez librement, gestualisez naturellement, et laissez l'application gérer votre cadrage. Elle ajoute même un espace supplémentaire dans la direction où vous tournez la tête, pour que votre vidéo ait l'air intentionnellement composée plutôt que mécaniquement suivie.",
+      "howItWorks": "L'application utilise la détection faciale en temps réel pour localiser votre visage dans chaque image. Elle suit simultanément trois axes : X (horizontal) vous garde centré lorsque vous vous déplacez latéralement, Y (vertical) vous suit quand vous vous levez, vous asseyez ou changez de hauteur, et Z (zoom) ajuste le recadrage plus serré ou plus large en fonction de votre distance par rapport à la caméra. Tous les ajustements sont appliqués en douceur pour éviter les mouvements brusques.",
+      "axes": {
+        "title": "Trois axes de contrôle",
+        "xLabel": "X",
+        "x": "Le suivi horizontal vous suit à gauche et à droite, gardant votre visage centré lorsque vous vous déplacez latéralement ou changez de position pendant une prise.",
+        "yLabel": "Y",
+        "y": "Le suivi vertical s'ajuste quand vous vous levez, vous asseyez ou changez de hauteur — votre visage reste ancré dans le cadre sans repositionnement manuel.",
+        "zLabel": "Z",
+        "z": "Le suivi du zoom resserre le recadrage quand vous reculez et l'élargit quand vous avancez, maintenant un cadrage constant à n'importe quelle distance."
+      },
+      "intelligent": "Dimensions va au-delà du simple suivi centré. Son système de suivi intelligent analyse la direction de votre tête et ajoute un espace de composition dans la direction où vous regardez. Tournez-vous vers la gauche et le cadre se décale pour vous donner un espace naturel de respiration sur le côté gauche. Cela crée le type de cadrage intentionnel et équilibré qui nécessite habituellement un cadreur — automatiquement, en temps réel, sur les deux orientations.",
+      "benefits": [
+        "Restez parfaitement cadré sans cadreur ni ajustements de trépied",
+        "Bougez librement pendant les enregistrements en solo — marchez, gestualisez, penchez-vous sans perdre le cadre",
+        "Le cadrage intelligent ajoute un espace naturel dans la direction où vous regardez",
+        "Un suivi fluide sur les trois axes pour une vidéo d'aspect professionnel, pas robotique"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Conçu différemment",
+    "subtitle": "Des fonctionnalités introuvables dans toute autre application caméra.",
+    "crossViewfinder": {
+      "title": "Viseur en forme de croix",
+      "description": "Une superposition unique affiche simultanément vos recadrages portrait et paysage — pas un bouton bascule, pas un écran divisé. Vous voyez exactement le rendu des deux vidéos en un seul coup d'oeil."
+    },
+    "poseAware": {
+      "title": "Cadrage selon la pose",
+      "description": "Va au-delà du simple suivi centré. Dimensions lit la direction de votre tête et ajoute un espace cinématographique là où vous regardez — le type de cadrage composé qui nécessite habituellement un cadreur."
+    },
+    "perFrameLeveling": {
+      "title": "Nivellement image par image",
+      "description": "Pas seulement de la stabilisation — une véritable correction de l'horizon image par image grâce au gyroscope de votre appareil. Chaque image est individuellement redressée, pour que votre vidéo reste droite même lors de mouvements rapides."
+    },
+    "qualityFirst": {
+      "title": "La qualité avant tout",
+      "description": "Enregistre une vidéo brute sans filtre pour préserver toute la plage dynamique. Le rendu visuel choisi est appliqué lors de l'export en une seule passe — pas de filtres empilés qui dégradent votre vidéo."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "Et bien plus encore",
+    "cameraLooks": {
+      "title": "16 rendus caméra",
+      "description": "Du grain argentique au Bleu sarcelle & Orange, du Bleach Bypass au Noir — choisissez votre style cinématographique et visualisez-le en direct avant de filmer."
+    },
+    "dualExport": {
+      "title": "Double export instantané",
+      "description": "Les vidéos portrait et paysage s'enregistrent dans vos Photos dès que vous arrêtez l'enregistrement. Pas de file de rendu, pas d'attente."
+    },
+    "exposure": {
+      "title": "Molette d'exposition de précision",
+      "description": "Ajustez finement la luminosité avec une molette d'exposition rotative. Intuitive, précise, et toujours à portée de main."
+    },
+    "recording": {
+      "title": "Glissez pour enregistrer",
+      "description": "Faites glisser le curseur pour démarrer l'enregistrement, touchez pour prendre des photos instantanées — même en cours de vidéo. Une seule commande pour tout."
+    },
+    "tapToFocus": {
+      "title": "Touchez pour faire la mise au point",
+      "description": "Touchez n'importe où pour régler la mise au point et l'exposition. Un indicateur visuel confirme le verrouillage pour que vous sachiez exactement où regarde la caméra."
+    },
+    "cameraFlip": {
+      "title": "Caméra avant et arrière",
+      "description": "Basculez entre les caméras avant et arrière avec une animation fluide. Le suivi du visage fonctionne avec les deux."
+    }
+  },
+
+  "free": {
+    "title": "Entièrement gratuit",
+    "description": "Toutes les fonctionnalités. Tous les rendus caméra. Tous les exports. Gratuit. Un petit filigrane apparaît sur les exports, supprimable avec un achat unique — pas d'abonnement, pas de fonctionnalités bloquées.",
+    "watermarkNote": "Petit filigrane sur les exports gratuits",
+    "removeWatermark": "Achat unique pour le supprimer"
+  },
+
+  "loading": "Chargement...",
+
+  "breadcrumb": {
+    "home": "Accueil"
+  },
+
+  "featurePage": {
+    "backToHome": "Retour à l'accueil",
+    "screenshotPlaceholder": "Capture d'écran à venir",
+    "videoPlaceholder": "Vidéo de démonstration à venir",
+    "otherFeatures": "Découvrir plus de fonctionnalités",
+    "problem": "Le problème",
+    "solution": "La solution",
+    "howItWorks": "Comment ça marche",
+    "benefits": "Avantages"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Enregistrement double orientation - Dimensions Camera",
+      "description": "Filmez une seule fois, obtenez les vidéos portrait (9:16) et paysage (16:9). Idéal pour publier sur TikTok et YouTube en une seule prise.",
+      "keywords": [
+        "enregistrement double orientation",
+        "vidéo portrait paysage",
+        "filmer les deux orientations",
+        "caméra TikTok YouTube"
+      ]
+    },
+    "livePreview": {
+      "title": "Aperçu en direct des deux orientations - Dimensions Camera",
+      "description": "Voyez exactement le rendu de vos recadrages portrait et paysage en temps réel. Ne ratez plus jamais le cadrage parfait.",
+      "keywords": [
+        "aperçu caméra en direct",
+        "double aperçu",
+        "aperçu portrait paysage",
+        "cadrage vidéo"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Stabilisation vidéo avec nivellement automatique - Dimensions Camera",
+      "description": "Gardez votre vidéo parfaitement droite en marchant ou en bougeant. Stabilisation gyroscopique intégrée, sans cardan nécessaire.",
+      "keywords": [
+        "nivellement automatique vidéo",
+        "stabilisation vidéo",
+        "caméra gyroscope",
+        "stabilisation sans cardan"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Caméra avec suivi du visage - Dimensions Camera",
+      "description": "Le suivi intelligent du visage vous garde parfaitement cadré en portrait et en paysage. Suivi sur les axes X, Y et Z.",
+      "keywords": [
+        "caméra suivi du visage",
+        "suivi facial vidéo",
+        "cadrage automatique visage",
+        "caméra influenceur"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Fonctionnalités",
+    "contact": "Contact",
+    "copyright": "Tous droits réservés."
+  }
+}

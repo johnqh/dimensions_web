@@ -30,6 +30,7 @@ All routes prefixed with `/:lang` for 16 languages.
 ### 1. Home Page (`/:lang`)
 
 Sections:
+
 1. **Hero** — "One Take. Every Dimension." tagline, app pitch, App Store CTA, phone mockup placeholder
 2. **Feature Cards** — 4 cards linking to detail pages (Dual Recording, Live Preview, Auto Leveling, Face Following)
 3. **More Features** — Camera Looks (16 filters), Dual Export, Exposure Control, Slide-to-Record
@@ -43,6 +44,7 @@ SEO keywords: dual orientation camera, record portrait landscape simultaneously,
 Core benefit: Record once, get both 9:16 portrait AND 16:9 landscape videos automatically.
 
 Sections:
+
 1. Hero with feature tagline + screenshot placeholder
 2. The Problem — Influencers record twice or crop badly
 3. How It Works — Square sensor capture, intelligent dual crop
@@ -57,6 +59,7 @@ SEO keywords: record portrait and landscape at once, dual orientation video, one
 Core benefit: See exactly what both crops look like in real-time with a large, clear preview.
 
 Sections:
+
 1. Hero
 2. The Problem — Tiny previews, guessing what the crop looks like
 3. Cross-shaped Preview — How the UI shows both orientations
@@ -71,6 +74,7 @@ SEO keywords: live preview both orientations, camera preview portrait landscape
 Core benefit: Video stays perfectly level even when walking or moving, no gimbal needed.
 
 Sections:
+
 1. Hero
 2. The Problem — Shaky handheld footage
 3. How It Works — Gyroscope-based real-time leveling
@@ -84,6 +88,7 @@ SEO keywords: auto level video, stabilize video without gimbal, self-balancing c
 Core benefit: Camera intelligently tracks faces to keep subjects perfectly framed in both crops.
 
 Sections:
+
 1. Hero
 2. The Problem — Subject drifts out of frame in one orientation
 3. Three Axes — X (horizontal), Y (vertical), Z (zoom) tracking

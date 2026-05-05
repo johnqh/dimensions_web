@@ -37,16 +37,14 @@ export default function HowItWorksSection() {
           {/* Connecting line (desktop only) */}
           <div className="hidden sm:block absolute top-8 left-[16.67%] right-[16.67%] h-px bg-white/10" />
 
-          {steps.map((step) => (
+          {steps.map(step => (
             <div key={step.number} className="text-center relative">
               {/* Numbered circle */}
               <div className="w-16 h-16 rounded-full bg-gradient-primary flex items-center justify-center mx-auto mb-6 relative z-10">
                 <span className="text-white text-xl font-bold">{step.number}</span>
               </div>
 
-              <h3 className="text-lg font-bold text-white mb-3">
-                {t(step.titleKey)}
-              </h3>
+              <h3 className="text-lg font-bold text-white mb-3">{t(step.titleKey)}</h3>
               <p className="text-white/60 text-sm leading-relaxed max-w-xs mx-auto">
                 {t(step.descriptionKey)}
               </p>

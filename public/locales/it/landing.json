@@ -1,0 +1,262 @@
+{
+  "seo": {
+    "title": "Dimensions — Registra Video Verticali e Orizzontali Contemporaneamente | Fotocamera iOS Gratuita",
+    "description": "Dimensions è un'app fotocamera iOS gratuita che registra video sia in verticale (9:16) che in orizzontale (16:9) in un'unica ripresa. Pubblica su TikTok, Instagram e YouTube senza registrare due volte.",
+    "keywords": [
+      "fotocamera doppio orientamento",
+      "video verticale orizzontale",
+      "registrare entrambi gli orientamenti",
+      "fotocamera TikTok YouTube",
+      "app video gratuita",
+      "app fotocamera influencer",
+      "doppia registrazione iOS",
+      "fotocamera content creator"
+    ]
+  },
+  "tagline": "Una Ripresa. Ogni Dimensione.",
+  "appIntro": "Basta registrare due volte. Dimensions è la fotocamera iOS gratuita che cattura video in verticale e orizzontale contemporaneamente — perfettamente inquadrati per TikTok, YouTube e Instagram in un'unica ripresa.",
+  "downloadCta": "Scarica Gratis dall'App Store",
+  "learnMore": "Scopri di Più",
+
+  "problem": {
+    "title": "Il Dilemma Multi-Piattaforma",
+    "recordTwice": {
+      "title": "Registra Tutto Due Volte",
+      "description": "Realizzi la ripresa perfetta per YouTube, poi ricominci da capo per TikTok. Inquadratura diversa, energia diversa — e il doppio del lavoro per ogni singolo video."
+    },
+    "cropAndHope": {
+      "title": "Ritaglia e Spera",
+      "description": "Oppure registri una volta e ritagli in post-produzione. Metà dell'inquadratura sparisce, il testo viene tagliato e la composizione curata va in pezzi."
+    },
+    "wasteHours": {
+      "title": "Ore Sprecate Ogni Settimana",
+      "description": "Moltiplica tutto questo per ogni video che pubblichi. Ore perse in riprese duplicate, ri-montaggi e riformattazioni — solo per restare su più piattaforme."
+    },
+    "resolution": "Dimensions risolve tutto questo."
+  },
+
+  "howItWorks": {
+    "title": "Come Funziona",
+    "frameShot": {
+      "title": "Inquadra la Scena",
+      "description": "Il mirino a croce mostra in tempo reale i ritagli verticale e orizzontale. Componi entrambe le inquadrature prima di premere registra."
+    },
+    "recordOnce": {
+      "title": "Registra Una Volta",
+      "description": "Scorri per registrare. Il tracciamento del volto ti mantiene al centro, il livellamento automatico mantiene l'orizzonte dritto. Concentrati solo sul tuo contenuto."
+    },
+    "getBothVideos": {
+      "title": "Ottieni Entrambi i Video",
+      "description": "Entrambe le versioni, verticale e orizzontale, vengono esportate automaticamente nelle tue Foto. Caricale su qualsiasi piattaforma all'istante."
+    }
+  },
+
+  "features": {
+    "title": "Perché gli Influencer Scelgono Dimensions",
+    "dualRecording": {
+      "title": "Registrazione a Doppio Orientamento",
+      "subtitle": "Registra una volta, pubblica ovunque",
+      "description": "Registra un singolo video e ottieni istantaneamente sia il formato 9:16 verticale che il 16:9 orizzontale — pronti per TikTok, YouTube e Instagram senza ripetere la ripresa o ritagliare.",
+      "heroTitle": "Registra Una Volta. Pubblica Ovunque.",
+      "heroSubtitle": "Un'unica ripresa ti dà verticale e orizzontale — pronto per ogni piattaforma.",
+      "problem": "Ogni content creator conosce questa frustrazione. Realizzi la ripresa perfetta per YouTube, poi ti rendi conto che ti serve una versione verticale per TikTok e Reels. Così ricominci, sistemi di nuovo le luci, cerchi di ricreare la stessa energia — ma non è mai la stessa cosa. O peggio, ritagli il video orizzontale in verticale perdendo metà dell'inquadratura. Moltiplica tutto questo per ogni video che pubblichi, e stai bruciando ore ogni settimana solo per restare multi-piattaforma.",
+      "solution": "Dimensions elimina completamente il problema della doppia ripresa. Cattura il video in formato quadrato e lo ritaglia contemporaneamente sia in 9:16 verticale che in 16:9 orizzontale in tempo reale. Quando smetti di registrare, entrambe le versioni sono già pronte — perfettamente inquadrate, perfettamente sincronizzate e pronte da caricare. Ti basta una sola ripresa.",
+      "howItWorks": "Dimensions utilizza il sensore della fotocamera del tuo iPhone per catturare un'inquadratura quadrata che contiene sia il ritaglio 9:16 verticale che il ritaglio 16:9 orizzontale. Durante la registrazione, l'app renderizza entrambi gli orientamenti simultaneamente utilizzando l'elaborazione video accelerata via hardware. Il risultato sono due file video separati e di alta qualità esportati nella tua libreria Foto nell'istante in cui termini la registrazione.",
+      "benefits": [
+        "Risparmia ore ogni settimana eliminando le sessioni di registrazione duplicate",
+        "Ottieni video verticali e orizzontali perfettamente inquadrati da ogni singola ripresa",
+        "Pubblica su TikTok, Instagram Reels, YouTube e Storie da un'unica sessione",
+        "Non perdere mai un momento spontaneo perché stavi registrando nell'orientamento sbagliato"
+      ],
+      "useCases": {
+        "title": "Perfetto Per",
+        "youtubeLabel": "YouTube",
+        "youtube": "Esporta video 16:9 orizzontali di qualità direttamente su YouTube. Formato widescreen completo senza bande nere o ritagli scomodi.",
+        "tiktokLabel": "TikTok",
+        "tiktok": "Ottieni video verticali 9:16 accattivanti per TikTok e Instagram Reels — dalla stessa ripresa realizzata per YouTube.",
+        "instagramLabel": "Instagram",
+        "instagram": "Copri ogni formato Instagram: Reels, Storie e post nel feed. Una sessione di registrazione, ogni proporzione gestita."
+      }
+    },
+    "livePreview": {
+      "title": "Anteprima in Tempo Reale",
+      "subtitle": "Vedi entrambe le inquadrature prima di registrare",
+      "description": "Il mirino a croce sovrappone i ritagli verticale e orizzontale in tempo reale. Quello che vedi è esattamente quello che ottieni — nessuna supposizione, nessuna sorpresa in post-produzione.",
+      "heroTitle": "Inquadra Entrambi. Non Perdere Nulla.",
+      "heroSubtitle": "Il mirino a croce mostra entrambi i ritagli in tempo reale — componi con sicurezza.",
+      "problem": "Quando registri in un orientamento, non hai idea di come risulterà l'altro ritaglio. Il soggetto verrà tagliato in verticale? Dettagli importanti finiranno fuori dall'inquadratura orizzontale? Lo scopri solo in post-produzione — e a quel punto, il momento è passato. Tirare a indovinare e sperare non è un flusso di lavoro.",
+      "solution": "Dimensions ti mostra esattamente come saranno entrambi i tuoi video, verticale e orizzontale, mentre stai ancora filmando. L'esclusiva anteprima a forma di croce mostra entrambi i ritagli sovrapposti in tempo reale, così puoi regolare l'inquadratura, posizionare il soggetto e comporre la scena con totale sicurezza prima di premere registra.",
+      "howItWorks": "Il mirino in tempo reale renderizza una sovrapposizione a forma di croce che mostra simultaneamente le aree di ritaglio 9:16 verticale e 16:9 orizzontale sopra l'intera area di cattura quadrata. Mentre muovi la fotocamera, pizzichi per lo zoom o riposizioni, entrambe le anteprime dei ritagli si aggiornano istantaneamente. Quello che vedi sullo schermo è esattamente quello che verrà esportato.",
+      "benefits": [
+        "Inquadra entrambi gli orientamenti con totale sicurezza prima e durante la registrazione",
+        "Pizzica per lo zoom per perfezionare la composizione in tempo reale",
+        "Elimina le sorprese in post-produzione dovute a ritagli inaspettati",
+        "Componi una volta — niente tentativi ed errori, niente riprese da rifare"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Livellamento Automatico",
+      "subtitle": "Orizzonte dritto, senza bisogno di gimbal",
+      "description": "Il giroscopio del tuo iPhone mantiene l'orizzonte perfettamente livellato fotogramma per fotogramma — mentre cammini, fai vlog o riprendi a mano libera. Stabilità professionale senza attrezzatura aggiuntiva.",
+      "heroTitle": "Cammina. Corri. Resta in Piano.",
+      "heroSubtitle": "La correzione giroscopica fotogramma per fotogramma mantiene ogni immagine dritta — senza bisogno di gimbal.",
+      "problem": "Gli orizzonti storti fanno sembrare amatoriale anche un ottimo contenuto. Le riprese a mano libera quasi sempre si inclinano, specialmente quando cammini, parli o riprendi in movimento. I gimbal aiutano, ma sono costosi, ingombranti e un'altra cosa da caricare e portare con sé. La stabilizzazione software in post-produzione può correggere l'inclinazione ma spesso introduce distorsioni o ritaglia ulteriormente l'inquadratura.",
+      "solution": "Dimensions utilizza il giroscopio integrato del tuo iPhone per rilevare l'inclinazione e correggerla automaticamente in tempo reale. Il tuo video resta perfettamente livellato indipendentemente da come tieni il telefono — camminando per strada, salendo le scale o riprendendo da un'angolazione scomoda. Funziona istantaneamente senza configurazione e senza attrezzatura aggiuntiva.",
+      "howItWorks": "L'app legge continuamente il sensore giroscopico del dispositivo per misurare l'inclinazione rotazionale. Applica una contro-rotazione in tempo reale al fotogramma video, mantenendo l'orizzonte fisso e livellato per tutta la durata della registrazione. Questa correzione avviene a livello hardware prima dell'esportazione, così entrambi i tuoi video verticale e orizzontale risultano perfettamente dritti.",
+      "benefits": [
+        "Video perfettamente livellato senza portare un gimbal",
+        "Funziona in tempo reale — niente correzione di riprese storte in post-produzione",
+        "Riprendi con sicurezza mentre cammini, ti muovi o fai vlog in giro",
+        "Risultati dall'aspetto professionale direttamente dal tuo iPhone"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Tracciamento del Volto",
+      "subtitle": "Muoviti liberamente, resta perfettamente inquadrato",
+      "description": "Il tracciamento del volto su tre assi ti segue in orizzontale, in verticale e regola lo zoom — con un'inquadratura intelligente consapevole della posa che aggiunge spazio naturale nella direzione in cui guardi.",
+      "heroTitle": "Muoviti Liberamente. Resta Inquadrato.",
+      "heroSubtitle": "Il tracciamento su tre assi con inquadratura consapevole della posa ti mantiene centrato ovunque ti muova.",
+      "problem": "Appoggia il telefono per registrare un video parlato e sei bloccato in una posizione. Ti sporgi per prendere qualcosa, fai un passo di lato o ti avvicini alla fotocamera e esci dall'inquadratura — specialmente nel ritaglio verticale più stretto. Finisci per ri-registrare o spendere tempo a fare keyframe manuali nel tuo editor. Per i creator che filmano da soli, restare nell'inquadratura è una battaglia costante.",
+      "solution": "Dimensions traccia il tuo volto in tempo reale su tre assi — orizzontale, verticale e zoom — e regola dolcemente il ritaglio per mantenerti perfettamente centrato sia nell'output verticale che orizzontale. Muoviti liberamente, gesticola naturalmente e lascia che l'app si occupi della tua inquadratura. Aggiunge anche spazio extra nella direzione in cui ti giri, così il tuo video appare composto intenzionalmente piuttosto che tracciato roboticamente.",
+      "howItWorks": "L'app utilizza il rilevamento del volto in tempo reale per localizzare il tuo viso in ogni fotogramma. Traccia tre assi simultaneamente: X (orizzontale) ti mantiene centrato mentre ti muovi da un lato all'altro, Y (verticale) ti segue mentre ti alzi, ti siedi o cambi altezza, e Z (zoom) regola il ritaglio più stretto o più ampio in base alla tua distanza dalla fotocamera. Tutte le regolazioni vengono applicate in modo fluido per evitare movimenti bruschi.",
+      "axes": {
+        "title": "Tre Assi di Controllo",
+        "xLabel": "X",
+        "x": "Il tracciamento orizzontale ti segue a sinistra e a destra, mantenendo il tuo volto centrato mentre ti muovi lateralmente o cambi posizione durante una ripresa.",
+        "yLabel": "Y",
+        "y": "Il tracciamento verticale si regola mentre ti alzi, ti siedi o cambi altezza — il tuo volto resta ancorato nell'inquadratura senza riposizionamento manuale.",
+        "zLabel": "Z",
+        "z": "Il tracciamento dello zoom avvicina il ritaglio quando fai un passo indietro e lo allarga quando avanzi, mantenendo un'inquadratura costante a qualsiasi distanza."
+      },
+      "intelligent": "Dimensions va oltre il semplice tracciamento centrato. Il suo sistema di tracciamento intelligente legge la posa della tua testa e aggiunge spazio compositivo nella direzione in cui stai guardando. Girati a sinistra e l'inquadratura si sposta per darti uno spazio naturale sul lato sinistro. Questo crea il tipo di inquadratura bilanciata e intenzionale che di solito richiede un operatore — automaticamente, in tempo reale, su entrambi gli orientamenti.",
+      "benefits": [
+        "Resta perfettamente inquadrato senza un operatore o regolazioni del treppiede",
+        "Muoviti liberamente durante le registrazioni da solo — cammina, gesticola, piegati senza perdere l'inquadratura",
+        "L'inquadratura intelligente consapevole della posa aggiunge spazio naturale nella direzione in cui guardi",
+        "Tracciamento fluido su tutti e tre gli assi mantiene il video dall'aspetto professionale, non robotico"
+      ]
+    }
+  },
+
+  "differentiators": {
+    "title": "Costruito Diversamente",
+    "subtitle": "Funzionalità che non troverai in nessun'altra app fotocamera.",
+    "crossViewfinder": {
+      "title": "Mirino a Croce",
+      "description": "Una sovrapposizione unica mostra contemporaneamente entrambi i ritagli verticale e orizzontale — non un pulsante da alternare, non uno schermo diviso. Vedi esattamente come appariranno entrambi i video con un solo sguardo."
+    },
+    "poseAware": {
+      "title": "Inquadratura Consapevole della Posa",
+      "description": "Va oltre il semplice tracciamento centrato. Dimensions legge la direzione della tua testa e aggiunge spazio cinematografico dove stai guardando — il tipo di inquadratura composta che di solito richiede un operatore."
+    },
+    "perFrameLeveling": {
+      "title": "Livellamento per Fotogramma",
+      "description": "Non semplice stabilizzazione — vera correzione dell'orizzonte fotogramma per fotogramma usando il giroscopio del dispositivo. Ogni fotogramma viene raddrizzato individualmente, così il video resta livellato anche durante movimenti rapidi."
+    },
+    "qualityFirst": {
+      "title": "Qualità al Primo Posto",
+      "description": "Registra video grezzo e senza filtri per preservare l'intera gamma dinamica. Il look scelto viene applicato durante l'esportazione in un unico passaggio — niente filtri sovrapposti che degradano le tue riprese."
+    }
+  },
+
+  "moreFeatures": {
+    "title": "E Molto Altro Ancora",
+    "cameraLooks": {
+      "title": "16 Look Cinematografici",
+      "description": "Dal Grana Pellicola al Teal & Orange, dal Bleach Bypass al Noir — scegli il tuo stile cinematografico e vedilo in tempo reale prima di registrare."
+    },
+    "dualExport": {
+      "title": "Doppia Esportazione Istantanea",
+      "description": "Entrambi i video verticale e orizzontale vengono salvati nelle tue Foto nell'istante in cui smetti di registrare. Nessuna coda di rendering, nessuna attesa."
+    },
+    "exposure": {
+      "title": "Ghiera di Esposizione di Precisione",
+      "description": "Regola la luminosità con una ghiera rotante per l'esposizione. Intuitiva, precisa e sempre a portata di mano."
+    },
+    "recording": {
+      "title": "Scorri per Registrare",
+      "description": "Trascina lo slider per iniziare a registrare, tocca per foto istantanee — anche durante il video. Un unico controllo per tutto."
+    },
+    "tapToFocus": {
+      "title": "Tocca per Mettere a Fuoco",
+      "description": "Tocca ovunque per impostare messa a fuoco ed esposizione. Un indicatore visivo conferma il blocco così sai esattamente dove sta guardando la fotocamera."
+    },
+    "cameraFlip": {
+      "title": "Fotocamera Frontale e Posteriore",
+      "description": "Passa dalla fotocamera frontale a quella posteriore con un'animazione fluida. Il tracciamento del volto funziona con entrambe."
+    }
+  },
+
+  "free": {
+    "title": "Completamente Gratuita",
+    "description": "Ogni funzionalità. Ogni look cinematografico. Ogni esportazione. Gratis. Un piccolo watermark appare sulle esportazioni, rimovibile con un singolo acquisto una tantum — nessun abbonamento, nessuna limitazione sulle funzionalità.",
+    "watermarkNote": "Piccolo watermark sulle esportazioni gratuite",
+    "removeWatermark": "Acquisto una tantum per rimuoverlo"
+  },
+
+  "loading": "Caricamento...",
+
+  "breadcrumb": {
+    "home": "Home"
+  },
+
+  "featurePage": {
+    "backToHome": "Torna alla Home",
+    "screenshotPlaceholder": "Screenshot in arrivo",
+    "videoPlaceholder": "Video demo in arrivo",
+    "otherFeatures": "Esplora Altre Funzionalità",
+    "problem": "Il Problema",
+    "solution": "La Soluzione",
+    "howItWorks": "Come Funziona",
+    "benefits": "Vantaggi"
+  },
+
+  "seoPages": {
+    "dualRecording": {
+      "title": "Registrazione a Doppio Orientamento - Dimensions Camera",
+      "description": "Registra una volta, ottieni sia il video verticale (9:16) che orizzontale (16:9). Perfetto per pubblicare su TikTok e YouTube da un'unica ripresa.",
+      "keywords": [
+        "registrazione doppio orientamento",
+        "video verticale orizzontale",
+        "registrare entrambi gli orientamenti",
+        "fotocamera TikTok YouTube"
+      ]
+    },
+    "livePreview": {
+      "title": "Anteprima in Tempo Reale di Entrambi gli Orientamenti - Dimensions Camera",
+      "description": "Vedi esattamente come appariranno i tuoi ritagli verticale e orizzontale in tempo reale. Non perdere mai l'inquadratura perfetta.",
+      "keywords": [
+        "anteprima fotocamera in tempo reale",
+        "doppia anteprima",
+        "anteprima verticale orizzontale",
+        "inquadratura video"
+      ]
+    },
+    "autoLeveling": {
+      "title": "Stabilizzazione Video con Livellamento Automatico - Dimensions Camera",
+      "description": "Mantieni il tuo video perfettamente livellato mentre cammini o ti muovi. Stabilizzazione giroscopica integrata, senza bisogno di gimbal.",
+      "keywords": [
+        "livellamento automatico video",
+        "stabilizzazione video",
+        "fotocamera giroscopio",
+        "stabilizzazione senza gimbal"
+      ]
+    },
+    "faceFollowing": {
+      "title": "Fotocamera con Tracciamento del Volto - Dimensions Camera",
+      "description": "Il tracciamento intelligente del volto ti mantiene perfettamente inquadrato sia in verticale che in orizzontale. Tracciamento sugli assi X, Y e Z.",
+      "keywords": [
+        "fotocamera tracciamento volto",
+        "video inseguimento volto",
+        "inquadratura automatica volto",
+        "fotocamera influencer"
+      ]
+    }
+  },
+
+  "footer": {
+    "features": "Funzionalità",
+    "contact": "Contatti",
+    "copyright": "Tutti i diritti riservati."
+  }
+}
