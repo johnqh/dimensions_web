@@ -7,3 +7,11 @@
 /Money.News.html     /en    301
 /Air.Photo.htmlKey   /en    301
 
+# Serve pre-rendered HTML for SEO routes
+/:lang/dual-recording /:lang/dual-recording/index.html 200
+/:lang/live-preview /:lang/live-preview/index.html 200
+/:lang/auto-leveling /:lang/auto-leveling/index.html 200
+/:lang/face-following /:lang/face-following/index.html 200
+
+# SPA fallback for all other routes
+/* /index.html 200
